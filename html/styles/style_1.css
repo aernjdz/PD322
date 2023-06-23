@@ -1,0 +1,18 @@
+.list-1{
+    list-style-type: circle;
+}
+.list-2{
+    list-style-type: square;
+}
+.list_num-1{
+    list-style-type: lower-latin;
+}
+.list_num-2{
+    list-style-type: upper-latin;
+}
+.list_num-3{
+    list-style-type:lower-roman;
+}
+.list_num-4{
+    list-style-type: upper-roman;
+}

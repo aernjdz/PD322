@@ -1,0 +1,12 @@
+.list_num-2{
+   list-style-image: url(../img/icon.png);
+}
+h1{
+    font-family: "Botiera";
+}
+@font-face {
+    font-family: "Botiera";
+    src: url(../fonts/boutiera-regular.otf)   format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
