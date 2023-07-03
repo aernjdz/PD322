@@ -1,4 +1,4 @@
-from random import randint
+# from random import randint
 # fruits = ["apple","plum","banana","orenge"]
 # rnumbers = list((5,8,7,3,2,9,0,7))
 
@@ -54,15 +54,64 @@ from random import randint
 
 # numbers.sort(reverse=True)
 # print(f"Print list :: {numbers}")
-colors = ["blue","red","green"]
-clone_colors = colors
-print(f"Colors ?= Clone_colors :: {colors is clone_colors}")
-print(f"Colors :: {colors}")
-print(f"Clone_colors :: {clone_colors}")
 
-# clone_colors = colors.copy()
-clone_colors = list(colors)
-print("="*50)
-colors[0] = "lime"
-print(f"Colors :: {colors}")
-print(f"Clone_colors :: {clone_colors}")
+# colors = ["blue","red","green"]
+# clone_colors = colors
+# print(f"Colors ?= Clone_colors :: {colors is clone_colors}")
+# print(f"Colors :: {colors}")
+# print(f"Clone_colors :: {clone_colors}")
+
+# # clone_colors = colors.copy()
+# clone_colors = list(colors)
+# print("="*50)
+# colors[0] = "lime"
+# print(f"Colors :: {colors}")
+# print(f"Clone_colors :: {clone_colors}")
+
+# №2
+# 9 0 4 4 1 8 0 1 5 7 2 1 6 2 2 3 0 9 3 4 5 2 9 0 8 6 7 3 6 1 4 8 3 5 7 6 6 3 2 9 5
+# user_list = list(map(int,input("Enter list numbers separated by a space (0 1 ... ...):: ").split()))
+# number = int(input("Enter is number :: "))
+# print(f"Number {number} is count {user_list.count(number)}")
+
+# # №3
+# user_list = list(map(int,input("Enter list numbers separated by a space (0 1 ... ...):: ").split()))
+# print(f"Sum :: {sum(user_list)}")
+# print(f"Arithmetic mean :: {'%.2f' % (sum(user_list)/len(user_list))}")
+
+# N1
+
+user_rating = list(map(int,input("Enter student rating list separated by a space (0 1 ... ...):: ").split()))
+while True:
+    print('=====================<[ good luck ]>=====================')
+    print("=          [1] - print student rating list               ")
+    print("=          [2] - Retaking the exam                       ")
+    print("=          [3] - Is there a scholarship?                 ")
+    print("=          [0] - Exit                                    ")
+    print("=========================================================")
+    choice = int(input("Enter you choice :: "))
+
+    match choice:
+        case 0:
+            print("Good bye!")
+            break
+        case 1:
+            print(f"Student rating :: {' '.join(map(str,user_rating))}")
+        case 2:
+            elem_id = int(input("Enter list element number :: "))
+            if 0 < elem_id < len(user_rating):
+                new_rating = int(input("Enter new reting :: "))
+                user_rating[elem_id] = new_rating
+            else:
+                print("IndexError")
+        case 3:
+            if 10.7 <= (sum(user_rating)/len(user_rating)):
+                print("A scholarship is available")
+            else:
+                print("The scholarship is not available")
+        case _ :
+            print("Wrong choice!")
+            choice = int(input("Enter you choice :: "))
+
+
+
