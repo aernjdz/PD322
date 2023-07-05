@@ -16,6 +16,6 @@ for i in range(size):
             data["main"] += matrix[i][i]
         if i+j == size-1:
             data["secondary"] += matrix[i][j]
-
+#1
 print(f"Main diagonal:{data['main']}")
 print(f"Secondary diagonal:{data['secondary']}")
