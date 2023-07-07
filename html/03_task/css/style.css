@@ -1,0 +1,40 @@
+
+ul{
+    padding: 0;
+    list-style-type: none;
+    text-align: center;
+    margin-top: 30px;
+    margin-block-end: 0;
+  
+}
+li{
+ width: 150px;
+ display: inline-block;
+ border-bottom: 10px solid gray;
+ cursor: pointer;
+ overflow: hidden;
+}
+img{
+    display: block;
+}
+li img:last-child{
+    transform: scaleY(-1) translateY(50px);
+    z-index: -1;
+    
+}
+li img{
+    transform: translateY(-50px);
+    opacity: 0;
+    transition: 2s ;
+}
+li:hover{
+    overflow: visible;
+}
+li:hover img:first-child{
+    transform: translateY(50px);
+    opacity: 1;
+}
+li:hover img:last-child{
+    transform: translateY(50px) scaleY(-1);
+    opacity: .2;
+}
