@@ -44,18 +44,18 @@ print(f"Result :: {' '.join(map(str,repeat))}")
 
 width,height = map(int,input("Enter matrix size  in format 1x1 (wxh):: ").split('x'))
 matrix = [[randint(0,20) for _ in range(width)] for i in range(height)]
-pading = len(str(sum(_ for rows in matrix for _ in rows)))
+pading = len(str(sum(_ for rows in matrix for _ in rows)))+2
 row = ""
 for _ in matrix:
     for num in _:
-         row += f"{num:<{pading}d}"
-    row += f" |{sum(_):<{pading}d}"
+         row += f"{num:>{pading}d}"
+    row += f" |{sum(_):>{pading}d}"
     print(row)
     row = ""
 column = ''
 for i in range(width):
-   column += f"{sum(rows[i] for rows in matrix):<{pading}d}"
-column += f" |{sum(_ for rows in matrix for _ in rows):<{pading}d}"
+   column += f"{sum(rows[i] for rows in matrix):>{pading}d}"
+column += f" |{sum(_ for rows in matrix for _ in rows):>{pading}d}"
 print("-"*len(column))
 print(column)
 
