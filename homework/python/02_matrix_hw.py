@@ -25,3 +25,12 @@ for i in range(0,len(list)-1,2):
 print(f"After  :: {' '.join(map(str,list))}")
 
 # №3
+
+list = [randint(5,30) for i in range(20)]
+print(f"List :: {' '.join(map(str,list))}")
+repeat = []
+count = {} 
+for i in list:
+    if list.count(i) > 1 and not i in repeat:
+        repeat.append(i)
+print(f"Result :: {' '.join(map(str,repeat))}")
