@@ -2,22 +2,46 @@ from random import choice
 
 matrix = [[" " for _ in range(3)] for _ in range(3)]
 
+
 def print_matrix():
     for i in range(3):
         print(' ' + matrix[i][0] + ' | ' + matrix[i][1] + ' | ' + matrix[i][2])
         if i < 2:
             print('-----------')
 
-
 def bot_move():
-    available_moves = [(i, j) for i, row in enumerate(matrix) for j, cell in enumerate(row) if cell == ' ']
-    if len(available_moves) > 0:
+   
+    for i in range(3):
+        for j in range(3):
+            if matrix[i][j] == ' ':
+                matrix[i][j] = 'O'
+                if check_win('O'):
+                    print("Bot chooses position", (i * 3) + j + 1)
+                    print_matrix()
+                    return
+                else:
+                    matrix[i][j] = ' '  
+
+ 
+    for i in range(3):
+        for j in range(3):
+            if matrix[i][j] == ' ':
+                matrix[i][j] = 'X'
+                if check_win('X'):
+                    matrix[i][j] = 'O'
+                    print("Bot chooses position", (i * 3) + j + 1)
+                    print_matrix()
+                    return
+                else:
+                    matrix[i][j] = ' '  
+
+    available_moves = [(i, j) for i in range(3) for j in range(3) if matrix[i][j] == ' ']
+    if available_moves:
         position = choice(available_moves)
         row, col = position
         matrix[row][col] = 'O'
         print("Bot chooses position", (row * 3) + col + 1)
         print_matrix()
-
 
 def check_win(player):
     for i in range(3):
@@ -32,7 +56,6 @@ def check_win(player):
         return True
 
     return False
-
 
 def play_game():
     print("Welcome to Tic-Tac-Toe!")
@@ -58,6 +81,5 @@ def play_game():
             print("It's a tie!")
             break
         current_player = 'O' if current_player == 'X' else 'X'
-
 
 play_game()
