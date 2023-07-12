@@ -30,7 +30,7 @@ def task_3(length:int, symbol:str, filled:bool)->str:
                     print(' ', end=' ')
             print()
 
-task_3(4,'@',False)
+task_3(32,'+',False)
 
 # №4
 print("======[ №4 ]=======")
@@ -66,20 +66,18 @@ print(task_5(25,5))
 print("======[ №6 ]=======")
 
 def task_6(number:int):
-   return len(str(number))
+    counter = 0
+    while number != 0:
+        number //=10
+        counter += 1
+    return counter
+   #return len(str(number))
 
 print(task_6(3456))
 
+
 # №7
 print("======[ №7 ]=======")
-
-def task_7(number:int):
-   return len(str(number))
-
-print(task_7(3456))
-
-# №8
-print("======[ №8 ]=======")
 def task_8(number:int):
     return str(number) == str(number)[::-1]
 
