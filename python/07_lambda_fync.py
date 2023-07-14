@@ -13,7 +13,7 @@ def print_matrix(matrix):
 def bot_move(matrix, player_symbol, bot_symbol):
     size = len(matrix)
 
-    # Перевірка на перемогу
+   
     for i in range(size):
         for j in range(size):
             if matrix[i][j] == ' ':
