@@ -1,25 +1,81 @@
-body{
-    margin: 0;
-}
+
 
 #task_1 header,
 #task_1 aside,
 #task_1 section,
 #task_1 main,
-#task_1 footer {
+#task_1 footer ,
+#task_2 header,
+#task_2 aside,
+#task_2 main,
+#task_2 footer,
+#task_3 header,
+#task_3 aside,
+#task_3 main,
+#task_3 footer,
+#task_4 header,
+#task_4 aside,
+#task_4 main,
+#task_4 footer {
     border: solid 2px black; 
     margin-bottom: 10px;
+}
+
+#body{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#task_4{
+    width: 785px;
+    height: 100%;
+    padding: 10px;
+    margin-left:auto ;
+    margin-right:auto ;
+    border: solid 2px black;
 }
 
 #task_1 header{
     height: 130px;
 }
 
+#task_2 header{
+    width: 100%;
+    height: 130px;
+}
+#task_3 header {
+    width: 100%;
+    height: 130px;
+}
+#task_3 header {
+    width: 100%;
+    height: 130px;
+}
+#task_4 header{
+    width: 100%;
+    height: 120px;
+}
 #task_1 aside{
     width: 140px;
     float: left;
     height: 300px;
 }
+#task_2 aside{
+    width: 150px;
+    float: left;
+    height: 600px;
+}
+#task_3 aside{
+    width: 150px;
+    height: 600px;
+    float: right;
+}
+#task_4 aside{
+    width: 150px;
+    height: 700px;
+    float: left;
+}
+
 #task_1 section{
     width: 140px;
     float: right;
@@ -31,10 +87,46 @@ body{
     height: 450px;
     position: relative;
 }
+#task_2 main{
+    height: 750px;
+    margin-left: 158px;
+}
+#task_3 main{
+    height: 750px;
+    margin-right: 158px;
+}
+#task_4 main{
+    width: 625px;
+    height: 850px;
+   float: right;
+}
+
 #task_1 footer{
+    width: 100%;
     height: 70px;
 }
-.circles{
+
+#task_2 footer{
+    width: 100%;
+    height:70px;
+    clear: both;
+}
+#task_3 footer{
+    width: 100%;
+    height: 70px;
+    clear: both;
+}
+#task_3 footer{
+    width: 100%;
+    height: 80px;
+    clear: both;
+}
+#task_4 footer{
+    width: 100%;
+    height: 80px;
+    clear: both;
+}
+/* .circles{
     margin: 10px;
     width: 110px;
     height: 105px;
@@ -69,6 +161,4 @@ a{
     position: absolute;
     top: 30px;
     left: 10px;
-}
-/* #DE9337
- */
+} */
