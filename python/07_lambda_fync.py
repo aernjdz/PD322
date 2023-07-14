@@ -75,7 +75,7 @@ def play_game():
     while True:
         print("Welcome to Tic-Tac-Toe!")
         size = int(input("Enter the board size: "))
-        if size == 1:
+        if size < 3:
             size = 3
         matrix = create_matrix(size)
         print_matrix(matrix)
