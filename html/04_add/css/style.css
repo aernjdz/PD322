@@ -1,0 +1,120 @@
+body{
+    font-family: 'Trebuchet MS', sans-serif;
+    margin: 0;
+}
+header{
+   
+    padding:10px 10px 10px;
+    background-color: #0CB4E4;
+    color: white;
+    font-family: 'caricaturefr-regular', sans-serif;
+}
+main,footer{
+    margin: 30px;
+    padding: 20px;
+}
+header h1{
+    padding:10px;
+}
+section img{
+    width: 100%;
+}
+footer a.btn{
+    margin-left:0 ;
+}
+.info{
+    color:#9F9FA7;
+    font-size: 24px;
+}
+.btn{
+    display: inline-block;
+    font-size: 20px;
+    text-align: center;
+    width:120px;
+    margin-left: 30px;
+    color: white;
+    text-decoration:none;
+    background-color: #0DB5E4;
+    padding: 20px 20px 20px;
+    border-radius: 15px ;
+    
+}
+
+.btn:hover{
+   background-color: #9F9FA7;
+
+}
+.section_2{
+    margin: 20px;
+}
+.section_2_1 {
+    margin-left: 250px;
+}
+.section_3_1 {
+    margin-left: 40px;
+}
+.section_2 img{
+    height:250px;
+    margin-right:20px;
+    float: left;
+}
+.section_3 img{
+    height:250px;
+    margin-right:20px;
+    float: right;
+}
+.section_3 h1{
+    padding-left: 20px;
+   
+ }
+ .section_3 p{
+     font-size: 24px;
+     color:#9F9FA7;
+ }
+ .section_3 a{
+     margin-left: 0;
+     clear:both;
+ }
+.section_2 h1{
+   padding-left: 20px;
+  
+}
+.section_2 p{
+    font-size: 24px;
+    color:#9F9FA7;
+}
+.section_2 a{
+    margin-left: 0;
+    clear:both;
+}
+.section_1{
+    margin: 20px;
+    text-align: center; 
+}
+hr{
+    color:#9F9FA7;
+}
+.posts{
+    display: flex;
+    align-items: flex-start;
+}
+.posts h1 ,.posts p{
+    text-align: left;
+}
+.posts a{
+    margin-left:0 ;
+    float: left;
+}
+.posts div{
+    margin: 10px;
+}
+.posts img{
+    width: 100%;
+}
+.posts p{
+    color:#9F9FA7;
+}
+@font-face {
+    font-family: "caricaturefr-regular";
+    src: url(../fonts/Caricature.fr.ttf);
+}
