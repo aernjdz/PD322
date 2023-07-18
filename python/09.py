@@ -5,7 +5,7 @@ import random
 
 size = 10
 
-mines = 10
+mines = 5
 
 
 
@@ -196,13 +196,6 @@ def showFlags(x,y):
 
 
 
-def countSafeCells():
-    count = 0
-    for i in range(size):
-        for j in range(size):
-            if not flags[i][j] and board[i][j] != '*':
-                count += 1
-    return count
 
 def isGameWon():
     for i in range(size):
