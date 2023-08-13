@@ -1,0 +1,79 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+h1{
+    font-family: 'Tektur', cursive;
+}
+a{
+    text-decoration: none;
+    color:black;
+}
+a h1 span{
+    color:#D0712D;
+}
+
+header{
+    
+    margin:20px;
+}
+
+ul{
+   
+    padding-top: 120px;
+    padding-bottom: 100px;
+    padding-left: 40px;
+    padding-right: 40px;
+    background-color: #D0712D;
+    margin: 0px 20px 20px;
+    
+    list-style-type: none;
+    float: left;
+}
+ul li {
+    margin: 20px 20px 20px;
+}
+ul li a{
+    color:white;
+    font-size: 30PX;
+}
+ul li a img{
+    width: 25px;
+    padding-right: 10px;
+}
+.img1{
+    height: 684px;
+    float: left;
+    padding-bottom: 20px;
+    
+}
+.name{
+    text-align: left;
+}
+.name-2{
+    color:white;
+    background-color: #D0712D;
+    margin-top: 0;
+    padding: 10px 10px 10px;
+    margin-left: 20px;
+  
+}
+.text{
+    margin-left:20px;
+    color: #d0722e;
+}
+.texts{
+    width:50ww0px;
+    display: flex;
+    flex-direction: column;
+    height: 704px;
+}
+.img2{
+    margin-left: 20px;
+    width: 292px;
+    margin-right: 20px;
+    float: left;
+}
+.img3{
+width:443px;
+height: 186.77px;
+}
