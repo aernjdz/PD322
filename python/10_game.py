@@ -1,70 +1,76 @@
 import msvcrt
+import os
 import random
 
+def clear_screen():
+    os.system("cls" if os.name == "nt" else "clear")
+
 def print_board(board):
+    clear_screen()
+    print("==== Spots ====")
     for row in board:
-        print(' '.join(map(str, row)))
+        print(" | ".join(f"{val:2}" if val != 0 else "  " for val in row))
+        print("-" * 21)
 
 def find_empty_cell(board):
-    for i in range(4):
-        for j in range(4):
+    for i in range(len(board)):
+        for j in range(len(board[i])):
             if board[i][j] == 0:
                 return i, j
-    return None
 
-def is_solvable(board):
-    inversions = 0
-    flattened_board = [val for row in board for val in row if val != 0]
-    
-    for i in range(len(flattened_board)):
-        for j in range(i + 1, len(flattened_board)):
-            if flattened_board[j] < flattened_board[i]:
-                inversions += 1
-    
-    blank_row, _ = find_empty_cell(board)
-    
-    if (blank_row % 2 == 0 and inversions % 2 == 0) or (blank_row % 2 != 0 and inversions % 2 != 0):
-        return True
-    return False
+def is_valid_move(x, y):
+    return 0 <= x < 4 and 0 <= y < 4
+
+def is_game_over(board):
+    current_num = 0
+    for row in board:
+        for val in row:
+            if val != current_num:
+                return False
+            current_num += 1
+    return True
+
+def shuffle_board(board):
+    flat_board = [val for row in board for val in row]
+    random.shuffle(flat_board)
+    shuffled_board = [flat_board[i:i+4] for i in range(0, 16, 4)]
+    return shuffled_board
 
 def main():
-    solved_board = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 0]]
-    board = [[15, 10, 11, 12], [5, 9, 6, 8], [1, 13, 2, 7], [3, 4, 14, 0]]
-    
-    if not is_solvable(board):
-        print("The initial board configuration is not solvable.")
-        return
-    
+    initial_board = [[0, 1, 2, 3], [4, 5, 6, 7], [8, 9, 10, 11], [12, 13, 14, 15]]
+    shuffled_board = shuffle_board(initial_board)
+    empty_x, empty_y = find_empty_cell(shuffled_board)
+
     while True:
-        print_board(board)
-        print("Use arrow keys to move the empty cell (0). Press 'q' to quit.")
-        
-        key = msvcrt.getch()
-        
-        if key == b'q':
+        print_board(shuffled_board)
+
+        if is_game_over(shuffled_board):
+            print("Congratulations! You won!")
             break
-        elif key == b'\xe0':
-            key = msvcrt.getch()
-            print(key)
-            if key == b'H':  # Up arrow key
-                empty_row, empty_col = find_empty_cell(board)
-                if empty_row < 3:
-                    board[empty_row][empty_col], board[empty_row + 1][empty_col] = board[empty_row + 1][empty_col], board[empty_row][empty_col]
-            elif key == b'M':  # Right arrow key
-                empty_row, empty_col = find_empty_cell(board)
-                if empty_col > 0:
-                    board[empty_row][empty_col], board[empty_row][empty_col - 1] = board[empty_row][empty_col - 1], board[empty_row][empty_col]
-            elif key == b'P':  # Down arrow key
-                empty_row, empty_col = find_empty_cell(board)
-                if empty_row > 0:
-                    board[empty_row][empty_col], board[empty_row - 1][empty_col] = board[empty_row - 1][empty_col], board[empty_row][empty_col]
-            elif key == b'K':  # Left arrow key
-                empty_row, empty_col = find_empty_cell(board)
-                if empty_col < 3:
-                    board[empty_row][empty_col], board[empty_row][empty_col + 1] = board[empty_row][empty_col + 1], board[empty_row][empty_col]
+
+        print("Use the arrows to move the cookie. Press "Q" to exit.")
+
+        key = msvcrt.getch()
+        if key == b'\xe0':
+            arrow_key = msvcrt.getch()
+
+            if arrow_key == b'H':  # Up arrow
+                new_x, new_y = empty_x + 1, empty_y
+            elif arrow_key == b'P':  # Down arrow
+                new_x, new_y = empty_x - 1, empty_y
+            elif arrow_key == b'K':  # Left arrow
+                new_x, new_y = empty_x, empty_y + 1
+            elif arrow_key == b'M':  # Right arrow
+                new_x, new_y = empty_x, empty_y - 1
+            else:
+                continue
+
+            if is_valid_move(new_x, new_y):
+                shuffled_board[empty_x][empty_y], shuffled_board[new_x][new_y] = shuffled_board[new_x][new_y], shuffled_board[empty_x][empty_y]
+                empty_x, empty_y = new_x, new_y
         
-        if board == solved_board:
-            print("Congratulations, you solved the puzzle!")
+        elif key.lower() == b'q':
+            print("Game Over.")
             break
 
 if __name__ == "__main__":
