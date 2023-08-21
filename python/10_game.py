@@ -48,7 +48,7 @@ def main():
             print("Congratulations! You won!")
             break
 
-        print("Use the arrows to move the cookie. Press "Q" to exit.")
+        print("Use the arrows to move the cookie. Press \"Q\" to exit.")
 
         key = msvcrt.getch()
         if key == b'\xe0':
@@ -73,5 +73,5 @@ def main():
             print("Game Over.")
             break
 
-if __name__ == "__main__":
-    main()
+
+main()
