@@ -57,6 +57,7 @@ sum_result = add_fractions(num1, den1, num2, den2)
 difference_result = subtract_fractions(num1, den1, num2, den2)
 product_result = multiply_fractions(num1, den1, num2, den2)
 division_result = divide_fractions(num1, den1, num2, den2)
+
 mixed_result = improper_to_mixed(sum_result['numerator'], sum_result['denominator'])
 print(f"Sum result: {mixed_result['whole_part'] if mixed_result['whole_part'] != 0 else ...} {mixed_result['numerator']}/{mixed_result['denominator']}")
 
