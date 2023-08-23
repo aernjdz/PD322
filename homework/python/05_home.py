@@ -1,4 +1,5 @@
 
+# №1 ================================================================
 def find_gcd(a, b):
     while b:
         a, b = b, a % b
@@ -70,3 +71,57 @@ print(f"Product result: {mixed_result['whole_part'] if mixed_result['whole_part'
 
 mixed_result = improper_to_mixed(division_result['numerator'], division_result['denominator'])
 print(f"Division result: {mixed_result['whole_part'] if mixed_result['whole_part'] != 0 else ''} {mixed_result['numerator']}/{mixed_result['denominator']}")
+
+
+# №2 ================================================================
+
+import json
+def load_transliteration_table(file_name):
+
+    with open(file_name, 'r', encoding='utf-8') as file:   
+        try:
+            return json.load(file)
+        except FileNotFoundError:
+            print(f"File not Found: {file_name}")
+
+
+def transliterate_text(text, table):
+    transliterated_text = []
+    for char in text:
+        if char in table:
+            transliterated_text.append(table[char])
+        else:
+            transliterated_text.append(char)
+    return ''.join(transliterated_text)
+
+def main():
+    choice = input("Choose the direction of transliteration (Ukrainian to English - 'ua_en', English to Ukrainian - 'en_ua'): ")
+    
+    if choice == 'ua_en':
+        output_file = 'ukr_to_eng.txt'
+        input_file = 'transliterated_text_en.json'
+    elif choice == 'en_ua':
+        output_file = 'eng_to_ukr.txt'
+        input_file = 'transliterated_text_ua.json'
+    else:
+        print("Incorrect choice.")
+        return
+
+    table = load_transliteration_table(input_file)
+    with open("input_file.txt",'r',encoding='utf-8') as txt:
+        try:
+            input_text = txt.read()
+        except FileNotFoundError:
+            print("File not Found: input_file.txt")
+
+    transliterated_text = transliterate_text(input_text, table)
+     
+
+    with open(output_file, 'w+', encoding='utf-8') as file:
+        try:
+            file.write(transliterated_text)
+        except FileNotFoundError:
+            print(f"File not Found: {output_file}")
+    print("Transliteration is complete. The result is saved in a file", output_file)
+
+main()
