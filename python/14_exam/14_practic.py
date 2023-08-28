@@ -174,7 +174,7 @@ while flag != 0:
     print('=       [6] -> a sample of department employees                          =')
     print('=       [7] -> the number of employees in the department                 =')
     print('=       [8] -> salary fund by departments                                =')
-    print('=       [9] -> transfer the employee to another department              =')
+    print('=       [9] -> transfer the employee to another department               =')
     print('=       [10] -> repport                                                  =')
     print('=       [0] -> exit                                                      =')
     print("=                                                                        =")
