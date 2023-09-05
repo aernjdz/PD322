@@ -118,3 +118,20 @@ main,
     margin-left: 32%;
    
 }
+.pos{
+display: flex;
+}
+.section_3{
+    background-color: #c8c10d;
+}
+.section_3 h2{
+    font-family: "Lato";
+    color:white;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    width:130px;
+}
