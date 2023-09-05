@@ -1,0 +1,120 @@
+@font-face {
+    font-family: "RammettoOne";
+    src: url(../fonts/RammettoOne-Regular.ttf)  format("truetype");
+}
+@font-face {
+    font-family: "Lato";
+    src: 
+    url(../fonts/lato-regular-webfont.eot) format("embedded-opentype"),
+    url(../fonts/lato-regular-webfont.svg) format("svg"),
+    url(../fonts/lato-regular-webfont.ttf) format("truetype"),
+    url(../fonts/lato-regular-webfont.woff) format("woff");
+
+}
+@font-face {
+    font-family: "Magra";
+    src: 
+    url(../fonts/magra-bold-webfont.eot) format("embedded-opentype"),
+    url(../fonts/magra-bold-webfont.svg) format("svg"),
+    url(../fonts/magra-bold-webfont.ttf) format("truetype"),
+    url(../fonts/magra-bold-webfont.woff) format("woff");
+}
+@font-face {
+    font-family: "Robo";
+    src: 
+    url(../fonts/roboto-regular-webfont.eot) format("embedded-opentype"),
+    url(../fonts/roboto-regular-webfont.svg) format("svg"),
+    url(../fonts/roboto-regular-webfont.ttf) format("truetype"),
+    url(../fonts/roboto-regular-webfont.woff) format("woff");
+}
+.logo{
+    margin-left: 400px;
+    margin-right: 400px;
+    position: relative;
+}
+.logo h1 {
+    font-family: "RammettoOne";
+   
+}
+.logo_vuha{
+    position: absolute;
+    left: 70%;
+    top: 20%;
+}
+
+.header_row{
+    display: flex;
+    flex-direction: row;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    
+}
+.menu a{
+    margin:10px 10px 10px;
+    text-decoration: none;
+    font-family: "Lato";
+    color: #7a6666;
+    font-weight: bold;
+}
+.menu a:hover{
+    color:#cb3362;
+    transition: 1.2s ease;
+}
+.menu a:link{
+    color: #7a6666;
+}
+.menu a:active{
+    color:#cb3362;
+}
+header{
+    background-color: #efedee;
+}
+body{
+    margin:0;
+}
+
+.section_1{
+    display: flex;
+    justify-content: center;
+    align-self: center;
+
+    position: relative;
+}
+.circle{
+    width: 130px;
+    position:absolute;
+    top: 65%;
+    right: 35%;
+}
+section .tort{
+    width: 100%;
+}
+main,
+.section_2{
+    background-color: #eae7e8;
+  
+   
+}
+
+.section_2 h2{
+    font-family: "Lato";
+    color: #7a6666;
+    padding-top: 60px;
+    margin-top: 0;
+    
+    margin-left: 32%;
+}
+.section_2 h1{
+    font-family: "Magra";
+    color:#e32a62;
+    margin-left: 32%;
+}
+.section_2 p{
+    font-family: "Robo";
+    color:#7a6666;
+    margin-left: 32%;
+   
+}
