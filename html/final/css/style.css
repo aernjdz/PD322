@@ -28,7 +28,7 @@
     url(../fonts/roboto-regular-webfont.woff) format("woff");
 }
 .logo{
-    margin-left: 400px;
+    margin-left:2 00px;
     margin-right: 400px;
     position: relative;
 }
@@ -53,15 +53,18 @@
     
 }
 .menu a{
+   
     margin:10px 10px 10px;
+    margin-top: 0;
     text-decoration: none;
     font-family: "Lato";
     color: #7a6666;
     font-weight: bold;
 }
 .menu a:hover{
-    color:#cb3362;
+    color:#c8c10d;
     transition: 1.2s ease;
+  
 }
 .menu a:link{
     color: #7a6666;
@@ -71,6 +74,9 @@
 }
 header{
     background-color: #efedee;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
 }
 body{
     margin:0;
@@ -92,10 +98,13 @@ body{
 section .tort{
     width: 100%;
 }
-main,
+
 .section_2{
+   
     background-color: #eae7e8;
-  
+    display: flex;
+    justify-content: center;
+    align-self: center;
    
 }
 
@@ -105,33 +114,95 @@ main,
     padding-top: 60px;
     margin-top: 0;
     
-    margin-left: 32%;
+   
 }
 .section_2 h1{
     font-family: "Magra";
     color:#e32a62;
-    margin-left: 32%;
+  
 }
 .section_2 p{
     font-family: "Robo";
     color:#7a6666;
-    margin-left: 32%;
+   
+    font-size: 100%;
    
 }
 .pos{
 display: flex;
 }
 .section_3{
+    width: 100%;
     background-color: #c8c10d;
+    display: flex;
+    justify-content: center;
+    align-self: center;
 }
 .section_3 h2{
     font-family: "Lato";
     color:white;
+   font-weight: normal;
 }
 .box{
+
     display: flex;
     justify-content: center;
     justify-items: center;
     flex-direction: column;
-    width:130px;
+    
+    padding: 40px 40px 40px;
+  
 }
+.box img{
+    margin:30px 30px 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.box h2{
+    margin:0;
+}
+.location img{
+    margin-bottom: 10px;
+    margin-left: 70px;
+  
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+footer{
+    background-color: #cb3362;
+    color:white;
+    font-family: "Robo";
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    flex-direction: column;
+    height:max-content;
+}
+body{
+    height: auto;
+
+}
+.box_link{
+  
+        display: flex;
+        justify-content: center;
+        justify-items: center;
+        flex-direction: column;
+        padding: 20px 20px 20px; 
+}
+footer .row{
+    margin-top: 1.5%;
+    margin-bottom: 0.1%;
+}
+
+.hidden-link {
+    display: none;
+  }
+  
+  .text:hover .hidden-link {
+    display: block;
+  }

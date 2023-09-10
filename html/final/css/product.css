@@ -1,0 +1,49 @@
+@font-face {
+    font-family: "Quicksand";
+    src: 
+    url(../fonts/quicksand-bold-webfont.eot) format("embedded-opentype"),
+    url(../fonts/quicksand-bold-webfont.svg) format("svg"),
+    url(../fonts/quicksand-bold-webfont.ttf) format("truetype"),
+    url(../fonts/quicksand-bold-webfont.woff) format("woff");
+}
+.info {
+    text-align: center;
+    color: white;
+   
+    background: #c8c10d;
+}
+.info h2{
+    padding: 2%;
+    font-family: "Lato";
+    font-weight: normal;
+    margin: 0;
+}
+main{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+main h2{
+    font-family: "Magra";
+    color: #cb3362;
+}
+main p{
+    font-family: "Lato";
+}
+.product_line{
+    display: flex;
+}
+.flex_box h2{
+    font-family: "Lato";
+}
+.flex_box{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+}
+#row{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
