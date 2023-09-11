@@ -1,0 +1,9 @@
+﻿  homework_2.cpp
+D:\ШАГ\PD322\C++\homework_2\homework_2\homework_2.cpp(6,23): warning C4101: 'num_3': unreferenced local variable
+D:\ШАГ\PD322\C++\homework_2\homework_2\homework_2.cpp(6,9): warning C4101: 'num_1': unreferenced local variable
+D:\ШАГ\PD322\C++\homework_2\homework_2\homework_2.cpp(6,16): warning C4101: 'num_2': unreferenced local variable
+D:\ШАГ\PD322\C++\homework_2\homework_2\homework_2.cpp(6,51): warning C4101: 'num_7': unreferenced local variable
+D:\ШАГ\PD322\C++\homework_2\homework_2\homework_2.cpp(6,37): warning C4101: 'num_5': unreferenced local variable
+D:\ШАГ\PD322\C++\homework_2\homework_2\homework_2.cpp(6,44): warning C4101: 'num_6': unreferenced local variable
+D:\ШАГ\PD322\C++\homework_2\homework_2\homework_2.cpp(6,30): warning C4101: 'num_4': unreferenced local variable
+  homework_2.vcxproj -> D:\ШАГ\PD322\C++\homework_2\x64\Debug\homework_2.exe
