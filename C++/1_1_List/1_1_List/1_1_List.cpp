@@ -50,7 +50,7 @@ int main() {
 	cout << "The perimeter of the pentagon is :: " << P << endl;*/
 
 	//N4
-	const int num_Months = 12;
+	/*const int num_Months = 12;
 	double profits[num_Months];
 
 	
@@ -75,6 +75,97 @@ int main() {
 		}
 	}
 	cout << "Month with the maximum profit: Month " << maxMonth << " (" << maxProfit << ")" << endl;
-	cout << "Month with the minimum profit: Month " << minMonth << " (" << minProfit << ")" << endl;
+	cout << "Month with the minimum profit: Month " << minMonth << " (" << minProfit << ")" << endl;*/
 
+	//N1.1
+	/*const int array_Size = 10; 
+	int Array[array_Size];
+
+	srand(static_cast<unsigned>(time(0)));
+	cout << "Original Array: ";
+	for (int i = 0; i < array_Size; ++i) {
+		Array[i] = rand() % 5;
+		cout << Array[i] << " ";
+	}
+	cout << endl;
+
+	int compressed_Size = 0;
+	for (int i = 0; i < array_Size; ++i) {
+		if (Array[i] != 0) {
+			Array[compressed_Size++] = Array[i];
+		}
+	}
+
+	while (compressed_Size < array_Size) {
+		Array[compressed_Size++] = -1;
+	}
+	cout << "Compressed Array: ";
+	for (int i = 0; i < array_Size; ++i) {
+		cout << Array[i] << " ";
+	}
+	cout << endl;*/
+	
+	//N1.2
+
+	const int array_Size = 5; 
+	int array1[array_Size];
+	int array2[array_Size];
+	int merged_Array[2 * array_Size];
+
+	srand(static_cast<unsigned>(time(0)));
+
+	cout << "Randomly generated " << array_Size << " elements for the first array:" << endl;
+	for (int i = 0; i < array_Size; ++i) {
+		array1[i] = rand() % 21 - 10; 
+		cout << array1[i] << " ";
+	}
+	cout << endl;
+
+	cout << "Randomly generated " << array_Size << " elements for the second array:" << endl;
+	for (int i = 0; i < array_Size; ++i) {
+		array2[i] = rand() % 21 - 10; 
+		cout << array2[i] << " ";
+	}
+	cout << endl;
+
+	int current_Index = 0;
+	for (int i = 0; i < array_Size; ++i) {
+		if (array1[i] > 0) {
+			merged_Array[current_Index++] = array1[i];
+		}
+	}
+	for (int i = 0; i < array_Size; ++i) {
+		if (array2[i] > 0) {
+			merged_Array[current_Index++] = array2[i];
+		}
+	}
+	//
+	for (int i = 0; i < array_Size; ++i) {
+		if (array1[i] == 0) {
+			merged_Array[current_Index++] = array1[i];
+		}
+	}
+	for (int i = 0; i < array_Size; ++i) {
+		if (array2[i] == 0) {
+			merged_Array[current_Index++] = array2[i];
+		}
+	}
+	//
+	for (int i = 0; i < array_Size; ++i) {
+		if (array1[i] < 0) {
+			merged_Array[current_Index++] = array1[i];
+		}
+	}
+	for (int i = 0; i < array_Size; ++i) {
+		if (array2[i] < 0) {
+			merged_Array[current_Index++] = array2[i];
+		}
+	}
+	//
+
+	cout << "Merged Array:" << endl;
+	for (int i = 0; i < 2 * array_Size; ++i) {
+		cout << merged_Array[i] << " ";
+	}
+	cout << endl;
 }
