@@ -1,0 +1,6 @@
+﻿  Homework_4.cpp
+D:\ШАГ\PD322\C++\Homework_4\Homework_4\Homework_4.cpp(107,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\ШАГ\PD322\C++\Homework_4\Homework_4\Homework_4.cpp(115,17): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\ШАГ\PD322\C++\Homework_4\Homework_4\Homework_4.cpp(122,28): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\ШАГ\PD322\C++\Homework_4\Homework_4\Homework_4.cpp(125,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Homework_4.vcxproj -> D:\ШАГ\PD322\C++\Homework_4\x64\Debug\Homework_4.exe
