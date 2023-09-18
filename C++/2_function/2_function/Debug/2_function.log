@@ -1,0 +1,3 @@
+﻿  2_function.cpp
+D:\ШАГ\PD322\C++\2_function\2_function\2_function.cpp(184,103): warning C4305: 'initializing': truncation from 'double' to 'float'
+  2_function.vcxproj -> D:\ШАГ\PD322\C++\2_function\Debug\2_function.exe
