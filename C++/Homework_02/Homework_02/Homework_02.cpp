@@ -50,9 +50,36 @@ using namespace std;
 //}
 
 // N4
-void printCard(int rank, string suit) {
-    cout << "Card: " << rank << " of " << suit << endl;
+//void printCard(int rank, string suit) {
+//    cout << "Card: " << rank << " of " << suit << endl;
+//}
+
+// N5
+bool isLuckyNumber(int number) {
+    if (number < 100000 || number > 999999) {
+        return false; 
+    }
+
+    int firstPart = number / 1000; 
+    int secondPart = number % 1000; 
+
+    int sumFirstPart = 0;
+    int sumSecondPart = 0;
+
+   
+    while (firstPart > 0) {
+        sumFirstPart += firstPart % 10;
+        firstPart /= 10;
+    }
+
+    while (secondPart > 0) {
+        sumSecondPart += secondPart % 10;
+        secondPart /= 10;
+    }
+
+    return sumFirstPart == sumSecondPart;
 }
+
 int main()
 {
    // N1
@@ -98,7 +125,7 @@ int main()
     find_Perfect_Numbers(start, end);*/
 
     // N4
-    int rank;
+    /*int rank;
     string suit;
 
   
@@ -109,7 +136,20 @@ int main()
     cin >> suit;
 
    
-    printCard(rank, suit);
+    printCard(rank, suit);*/
+
+    // N5
+    int number;
+
+    cout << "Enter a six-digit number: ";
+    cin >> number;
+
+    if (isLuckyNumber(number)) {
+        cout << "It's a lucky number!" << endl;
+    }
+    else {
+        cout << "It's not a lucky number." << endl;
+    }
 }
 
 
