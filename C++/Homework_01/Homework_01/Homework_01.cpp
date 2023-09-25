@@ -31,57 +31,57 @@ void printArray2D(int arr[], int size, string  text = "") {
 //}
 
 // N3
-//const int rows = 2, cols = 5;
-//void fillArray(int arr[rows][cols]) {
-//    for (int i = 0; i < rows; i++) {
-//        for (int j = 0; j < cols; j++) {
-//            arr[i][j] = rand() % 100;
-//        }
-//    }
-//}
-//void printArray3D(int arr[rows][cols], string text = "") {
-//
-//    cout << text << endl;
-//    for (int i = 0; i < rows; i++) {
-//        for (int j = 0; j < cols; j++) {
-//            cout << arr[i][j] << "\t";
-//        }
-//        cout << endl;
-//    }
-//}
-//void cyclicShift(int array[rows][cols], int shifts, char direction) {
-//
-//    int tempArray[rows][cols];
-//
-//    for (int k = 0; k < shifts; k++) {
-//        for (int i = 0; i < rows; i++) {
-//            for (int j = 0; j < cols; j++) {
-//                if (direction == 'L') {
-//                    tempArray[i][j] = array[i][(j + 1) % cols];
-//                }
-//                else if (direction == 'R') {
-//                    tempArray[i][j] = array[i][(j + cols - 1) % cols];
-//                }
-//                else if (direction == 'U') {
-//                    tempArray[i][j] = array[(i + 1) % rows][j];
-//                }
-//                else if (direction == 'D') {
-//                    tempArray[i][j] = array[(i + rows - 1) % rows][j];
-//                }
-//            }
-//        }
-//
-//        for (int i = 0; i < rows; i++) {
-//            for (int j = 0; j < cols; j++) {
-//                array[i][j] = tempArray[i][j];
-//            }
-//        }
-//    }
-//}
-//
-//char toggleCase(char letter) {
-//    return ((letter >= 'a' && letter <= 'z') ? letter - 32 : letter);
-//}
+const int rows = 2, cols = 5;
+void fillArray(int arr[rows][cols]) {
+   for (int i = 0; i < rows; i++) {
+       for (int j = 0; j < cols; j++) {
+           arr[i][j] = rand() % 100;
+       }
+   }
+}
+void printArray3D(int arr[rows][cols], string text = "") {
+
+   cout << text << endl;
+   for (int i = 0; i < rows; i++) {
+       for (int j = 0; j < cols; j++) {
+           cout << arr[i][j] << "\t";
+       }
+       cout << endl;
+   }
+}
+void cyclicShift(int array[rows][cols], int shifts, char direction) {
+
+   int tempArray[rows][cols];
+
+   for (int k = 0; k < shifts; k++) {
+       for (int i = 0; i < rows; i++) {
+           for (int j = 0; j < cols; j++) {
+               if (direction == 'L') {
+                   tempArray[i][j] = array[i][(j + 1) % cols];
+               }
+               else if (direction == 'R') {
+                   tempArray[i][j] = array[i][(j + cols - 1) % cols];
+               }
+               else if (direction == 'U') {
+                   tempArray[i][j] = array[(i + 1) % rows][j];
+               }
+               else if (direction == 'D') {
+                   tempArray[i][j] = array[(i + rows - 1) % rows][j];
+               }
+           }
+       }
+
+       for (int i = 0; i < rows; i++) {
+           for (int j = 0; j < cols; j++) {
+               array[i][j] = tempArray[i][j];
+           }
+       }
+   }
+}
+
+char toggleCase(char letter) {
+   return ((letter >= 'a' && letter <= 'z') ? letter - 32 : letter);
+}
 
 
 int main()
@@ -109,7 +109,7 @@ int main()
     printArra2D(arr, size, "Result Array :: ");*/
 
     // N3
-    /*srand(time(0));
+    srand(time(0));
  
     int arr[rows][cols]{};
     int shifts;
@@ -124,6 +124,6 @@ int main()
     cout << "Choose a direction (L - left, R - right, U - up, D - down): ";
     cin >> direction;
     cyclicShift(arr,shifts, toggleCase(direction));
-    printArray3D(arr, "After :: ");*/
+    printArray3D(arr, "After :: ");
 }
 
