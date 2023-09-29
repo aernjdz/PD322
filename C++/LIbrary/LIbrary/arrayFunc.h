@@ -49,7 +49,7 @@ template<typename T>
 void removeRowFromBeginning(T**& arr, int& row, const int& col);
 
 template<typename T>
-void addColumnToEnd(T** arr, const int& row, int& col);
+inline void addColumnToEnd(T** arr, const int& row, int& col);
 
 template<typename T>
 void removeColumnFromEnd(T** arr, const int& row, int& col);
@@ -63,7 +63,7 @@ void removeColumnFromBeginning(T** arr, const int& row, int& col);
 
 
 template<typename T>
-void createArray(T**& arr, int row, int col) {
+inline void createArray(T**& arr, int row, int col) {
     T** tmp = new T * [row];
     for (int i = 0; i < row; i++) {
         tmp[i] = new T[col]{};
@@ -72,7 +72,7 @@ void createArray(T**& arr, int row, int col) {
 }
 
 template<typename T>
-void fillArray(T** arr, const int& row, const int& col, int min, int max ) {
+inline void fillArray(T** arr, const int& row, const int& col, int min, int max ) {
     srand(time(0));
     for (int i = 0; i < row; i++) {
         for (int j = 0; j < col; j++) {
@@ -82,7 +82,7 @@ void fillArray(T** arr, const int& row, const int& col, int min, int max ) {
 }
 
 template<typename T>
-void printArray(T** arr, const int& row, const int& col, string text) {
+inline void printArray(T** arr, const int& row, const int& col, string text) {
     cout << text << endl;
     for (int i = 0; i < row; i++) {
         for (int j = 0; j < col; j++) {
@@ -93,7 +93,7 @@ void printArray(T** arr, const int& row, const int& col, string text) {
 }
 
 template<typename T>
-void insertRow(T**& arr, int& row,  int col, int index) {
+inline void insertRow(T**& arr, int& row,  int col, int index) {
    
     if (index == row) {
         T** tmp = new T * [row + 1];
@@ -123,7 +123,7 @@ void insertRow(T**& arr, int& row,  int col, int index) {
 
 
 template<typename T>
-void removeRow(T**& arr, int& row,  int col, int index) {
+inline void removeRow(T**& arr, int& row,  int col, int index) {
     if (index >= 0 && index < row) {
         T** tmp = new T * [row - 1];
         for (int i = 0, j = 0; i < row; i++) {
@@ -142,7 +142,7 @@ void removeRow(T**& arr, int& row,  int col, int index) {
 }
 
 template<typename T>
-void insertCol(T** arr, int row, int& col, int index) {
+inline void insertCol(T** arr, int row, int& col, int index) {
     if (index < 0 || index > col) {
         return;
     }
@@ -164,7 +164,7 @@ void insertCol(T** arr, int row, int& col, int index) {
 }
 
 template<typename T>
-void removeCol(T** arr, const int& row, int& col, int index) {
+inline void removeCol(T** arr, const int& row, int& col, int index) {
     if (index < 0 || index >= col) {
         return;
     }
@@ -185,7 +185,7 @@ void removeCol(T** arr, const int& row, int& col, int index) {
 }
 
 template<typename T>
-T findMax(T** arr, const int& row, const int& col) {
+inline T findMax(T** arr, const int& row, const int& col) {
     T max = arr[0][0];
     for (int i = 0; i < row; i++) {
         for (int j = 0; j < col; j++) {
@@ -198,7 +198,7 @@ T findMax(T** arr, const int& row, const int& col) {
 }
 
 template<typename T>
-T findMin(T** arr, const int& row, const int& col) {
+inline T findMin(T** arr, const int& row, const int& col) {
     T min = arr[0][0];
     for (int i = 0; i < row; i++) {
         for (int j = 0; j < col; j++) {
@@ -211,10 +211,10 @@ T findMin(T** arr, const int& row, const int& col) {
 }
 
 template<typename T>
-void deleteRowsWithZeros(T**& arr, int& row, const int& col) {
+inline void deleteRowsWithZeros(T**& arr, int& row, const int& col) {
     int numRowsWithZeros = 0;
 
-    // Count the rows with zeros
+   
     for (int i = 0; i < row; i++) {
         bool hasZero = false;
         for (int j = 0; j < col; j++) {
@@ -255,7 +255,7 @@ void deleteRowsWithZeros(T**& arr, int& row, const int& col) {
 }
 
 template<typename T>
-void addRowToEnd(T**& arr, int& row, const int& col) {
+inline void addRowToEnd(T**& arr, int& row, const int& col) {
     T** tmp = new T * [row + 1];
     for (int i = 0; i < row; i++) {
         tmp[i] = arr[i];
@@ -267,7 +267,7 @@ void addRowToEnd(T**& arr, int& row, const int& col) {
 }
 
 template<typename T>
-void removeRowFromEnd(T**& arr, int& row, const int& col) {
+inline void removeRowFromEnd(T**& arr, int& row, const int& col) {
     if (row > 0) {
         delete[] arr[row - 1];
         row--;
@@ -275,7 +275,7 @@ void removeRowFromEnd(T**& arr, int& row, const int& col) {
 }
 
 template<typename T>
-void addRowToBeginning(T**& arr, int& row, const int& col) {
+inline void addRowToBeginning(T**& arr, int& row, const int& col) {
     T** tmp = new T * [row + 1];
     tmp[0] = new T[col]{}; 
     for (int i = 0; i < row; i++) {
@@ -287,7 +287,7 @@ void addRowToBeginning(T**& arr, int& row, const int& col) {
 }
 
 template<typename T>
-void removeRowFromBeginning(T**& arr, int& row, const int& col) {
+inline void removeRowFromBeginning(T**& arr, int& row, const int& col) {
     if (row > 0) {
         delete[] arr[0];
         for (int i = 1; i < row; i++) {
@@ -298,7 +298,7 @@ void removeRowFromBeginning(T**& arr, int& row, const int& col) {
 }
 
 template<typename T>
-void addColumnToEnd(T** arr, const int& row, int& col) {
+inline void addColumnToEnd(T** arr, const int& row, int& col) {
     for (int i = 0; i < row; i++) {
         T* tmp = new T[col + 1];
         tmp[col] = 0; 
@@ -312,7 +312,7 @@ void addColumnToEnd(T** arr, const int& row, int& col) {
 }
 
 template<typename T>
-void removeColumnFromEnd(T** arr, const int& row, int& col) {
+inline void removeColumnFromEnd(T** arr, const int& row, int& col) {
     if (col > 0) {
         for (int i = 0; i < row; i++) {
             T* tmp = new T[col - 1];
@@ -327,7 +327,7 @@ void removeColumnFromEnd(T** arr, const int& row, int& col) {
 }
 
 template<typename T>
-void addColumnToBeginning(T** arr, const int& row, int& col) {
+inline void addColumnToBeginning(T** arr, const int& row, int& col) {
     for (int i = 0; i < row; i++) {
         T* tmp = new T[col + 1];
         tmp[0] = 0; 
@@ -341,7 +341,7 @@ void addColumnToBeginning(T** arr, const int& row, int& col) {
 }
 
 template<typename T>
-void removeColumnFromBeginning(T** arr, const int& row, int& col) {
+inline void removeColumnFromBeginning(T** arr, const int& row, int& col) {
     if (col > 0) {
         for (int i = 0; i < row; i++) {
             T* tmp = new T[col - 1];
