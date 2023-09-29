@@ -1,0 +1,8 @@
+﻿  LIbrary.cpp
+D:\ШАГ\PD322\C++\LIbrary\LIbrary\arrayFunc.h(76,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\ШАГ\PD322\C++\LIbrary\LIbrary\LIbrary.cpp(27): message : see reference to function template instantiation 'void fillArray<int>(T **,const int &,const int &,int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  LIbrary.vcxproj -> D:\ШАГ\PD322\C++\LIbrary\Debug\LIbrary.exe
