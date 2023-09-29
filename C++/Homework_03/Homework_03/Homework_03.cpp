@@ -9,8 +9,9 @@ using namespace std;
 //    cout << "Enter the size of the array: ";
 //    cin >> size;
 //
-//    cout << "Enter the elements of the array:" << endl;
+//    
 //    for (int i = 0; i < size; i++) {
+// cout << "Enter the " << i <<"elements of the array:" << endl;
 //        cin >> arr[i];
 //    }
 //}
