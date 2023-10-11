@@ -103,6 +103,20 @@ string caesarEncrypt(string& text,int key) {
 	}
 	return result;
 }
+string caesarDecrypt(string& text, int shift) {
+	string decryptedText = "";
+
+	for (char& character : text) {
+		if (isalpha(character)) {
+			char base = isupper(character) ? 'A' : 'a';
+			character = static_cast<char>(((character - base - shift + 26) % 26) + base);
+		}
+		decryptedText += character;
+	}
+
+	return decryptedText;
+
+}
 int main()
 {
 	// N1
@@ -131,15 +145,29 @@ int main()
 	cout << "Statistics successfully written to file 'output.txt'." << endl;*/
 
 	// N3
-	string input_File = "input.txt";
+	/*string input_File = "input.txt";
 	string output_File = "output.txt";
 
 	string text = readFile(input_File);
+	
 	cout << "Input :: " << endl;
 	cout << text << endl;
 	string result = caesarEncrypt(text, 3);
 	cout << "Output :: " << endl;
 	cout << result << endl;
-	writeFile(output_File, result);
+	writeFile(output_File, result);*/
+
+	//N4
+	string input_File = "input2.txt";
+	string output_File = "output2.txt";
+	
+	string text = readFile(input_File);
+	cout << "Input :: " << endl;
+	cout << text << endl;
+	string result = caesarDecrypt(text, 3);
+	cout << "Output :: " << endl;
+	cout << result << endl;
+	writeFile(output_File, result); 
+
 	}
 
