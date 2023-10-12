@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+#include <string>
 using namespace std;
 
 // N1
@@ -74,33 +75,35 @@ cout << "Temperature :: " << x.temperature << " degrees Celsius" << endl;
 //}
 // 
 //N3
-struct Boiler {
-	string brand;
-	string color;
-	int power;
-	int capacity;
-	int temperature;
-};
-void show(Boiler x) {
-		cout << "Model       :: " << x.brand << endl;
-		cout << "Color       :: " << x.color << endl;
-		cout << "Temparature :: " << x.temperature << " degrees Celsius" << endl;
-		cout << "Capasity    :: " << x.capacity <<" l." << endl;
-		cout << "Power       :: " << x.power << " kW" << endl;
-	}
+//struct Boiler {
+//	string brand;
+//	string color;
+//	int power;
+//	int capacity;
+//	int temperature;
+//};
+//void show(Boiler x) {
+//		cout << "Model       :: " << x.brand << endl;
+//		cout << "Color       :: " << x.color << endl;
+//		cout << "Temparature :: " << x.temperature << " degrees Celsius" << endl;
+//		cout << "Capasity    :: " << x.capacity <<" l." << endl;
+//		cout << "Power       :: " << x.power << " kW" << endl;
+//	}
+
 int main()
 {
-	//N1
-	/*washing_Mash a = {"Skyworth F70228SDW","white",{44,59.5,85,7},0.59,1200,95};
-	show(a);*/
+    // N1
+    /*washing_Mash a = {"Skyworth F70228SDW","white",{44,59.5,85,7},0.59,1200,95};
+    show(a);*/
 
-	//N2
-	/*iron  models = { "Saturn ST-CC7118","blue and white",{50,329} ,true,2400 };
-	show(models);
-	
-	iron new_0 = create_iron();
-	show(new_0);*/
-	//N3
-	Boiler myBoiler{ "AquaHeat","White",2000,80,60 };
-	show(myBoiler);
+    // N2
+    /*iron  models = { "Saturn ST-CC7118","blue and white",{50,329} ,true,2400 };
+    show(models);
+
+    iron new_0 = create_iron();
+    show(new_0);*/
+    // N3
+    /*Boiler myBoiler{ "AquaHeat","White",2000,80,60 };
+    show(myBoiler);*/
+  
 }
