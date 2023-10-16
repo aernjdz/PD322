@@ -8,7 +8,10 @@ using std::string;
 using std::to_string;
 using std::swap;
 using std::strlen;
-const int SIZE = 50;
+using std::size;
+const int SIZE = 100;
+
+
 struct Book 
 {
 	char name[SIZE];
@@ -26,5 +29,5 @@ int searchByName(Book* library, int size, char* name);
 void sortByName(Book* library,int size);
 void sortByAuthor(Book* library, int size);
 void sortByPublisher(Book* library, int size);
-void addBook(Book* library,int size);
-void removeBook();
+void addBook(Book* library, int& size);
+void removeBookByName(Book* library, int& size, char* name);

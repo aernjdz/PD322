@@ -81,15 +81,46 @@ void sortByPublisher(Book* library, int size) {
 		}
 	}
 }
-void addBook(Book* library, int size) {
-	Book NewBook;
-	cout << "Enter the book's name :: ";
-	cin.getline(NewBook.name, SIZE);
-	cout << "Enter the author's name :: ";
-	cin.getline(NewBook.author,SIZE);
-	cout << "Enter the publishe`s name :: ";
-	cin.getline(NewBook.publisher, SIZE);
-	cout << "Enter the genre`s name :: ";
-	cin.getline(NewBook.genre, SIZE);
-	library[] = NewBook;
+void addBook(Book* library, int& size) {
+	if (size < SIZE) {
+		cout << "Enter book details:" << std::endl;
+		cout << "Title: ";
+
+		cin.getline(library[size].name, SIZE);
+
+		cout << "Author: ";
+
+		cin.getline(library[size].author, SIZE);
+		cout << "Publisher: ";
+
+		cin.getline(library[size].publisher, SIZE);
+		cout << "Genre: ";
+
+		cin.getline(library[size].genre, SIZE);
+
+		size++;
+	}
+	else {
+		cout << "Library is full. Cannot add more books." << endl;
+	}
 }
+
+void removeBookByName(Book* library, int& size, char* name)
+{
+	for (int i = 0; i < size; i++) {
+		if (strcmp(toLowerCase(library[i].name), toLowerCase(name)) == 0) {
+			for (int j = i; j < size - 1; j++) {
+				library[j] = library[j + 1];
+			}
+			size--;
+			cout << "Book '" << name << "' has been deleted." << endl;
+			return;
+
+		}
+		cout << "Book '" << name << "' not found in the library." << endl;
+
+	}
+}
+
+
+

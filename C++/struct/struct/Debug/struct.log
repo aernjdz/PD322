@@ -1,8 +1,2 @@
-﻿  library.cpp
-D:\ШАГ\PD322\C++\struct\struct\library.cpp(4,23): warning C4018: '<': signed/unsigned mismatch
-D:\ШАГ\PD322\C++\struct\struct\library.cpp(58,23): warning C4018: '<': signed/unsigned mismatch
-D:\ШАГ\PD322\C++\struct\struct\library.cpp(67,23): warning C4018: '<': signed/unsigned mismatch
-D:\ШАГ\PD322\C++\struct\struct\library.cpp(76,23): warning C4018: '<': signed/unsigned mismatch
-  struct.cpp
-  Generating Code...
+﻿  struct.cpp
   struct.vcxproj -> D:\ШАГ\PD322\C++\struct\Debug\struct.exe
