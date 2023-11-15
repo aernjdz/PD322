@@ -142,6 +142,7 @@
     <ClCompile Include="Classs_work.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Employer.h" />
     <ClInclude Include="Shape.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,6 +1,7 @@
 ﻿
 #include <iostream>
 #include "Shape.h"
+#include "Employer.h"
 using namespace std;
 int main()
 {
@@ -12,6 +13,18 @@ int main()
     cout << "Circle Area :: " << circle.calculateArea() << "cm2" << endl;
     cout << "Triangle Area :: " << triangle.calculateArea() << "cm2" << endl;
     cout << "Trapezoid Area :: " << trapezoid.calculateArea() << "cm2" << endl;
+
+    cout << endl;
+    President president("John Doe");
+    Manager manager("Alice Smith");
+    Worker worker("Bob Johnson");
+
+    std::cout << "Information about each type of employer:" << std::endl;
+    std::cout << "-------------------------------------" << std::endl;
+
+    president.Print();
+    manager.Print();
+    worker.Print();
 
 }
 
