@@ -1,0 +1,32 @@
+﻿  Homework_17.cpp
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(117,26): warning C4018: '<=': signed/unsigned mismatch
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(112): message : while compiling class template member function 'void PrQueue<int>::print(void) const'
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(203): message : see reference to function template instantiation 'void PrQueue<int>::print(void) const' being compiled
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(173): message : while compiling class template member function 'bool PrQueue<int>::IsEmpty(void) const'
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Homework_17.cpp(21): message : see reference to function template instantiation 'bool PrQueue<int>::IsEmpty(void) const' being compiled
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Homework_17.cpp(7): message : see reference to class template instantiation 'PrQueue<int>' being compiled
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(137,26): warning C4018: '<=': signed/unsigned mismatch
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(133): message : while compiling class template member function 'void PrQueue<int>::resize(void)'
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(65): message : see reference to function template instantiation 'void PrQueue<int>::resize(void)' being compiled
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(61): message : while compiling class template member function 'void PrQueue<int>::push(const Node<T> &)'
+          with
+          [
+              T=int
+          ]
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(180): message : see reference to function template instantiation 'void PrQueue<int>::push(const Node<T> &)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(154,26): warning C4018: '<=': signed/unsigned mismatch
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(153): message : while compiling class template member function 'int PrQueue<int>::getPos(const Node<T>) const'
+          with
+          [
+              T=int
+          ]
+D:\ШАГ\PD322\C++\Homework_17\Homework_17\Queue.h(63): message : see reference to function template instantiation 'int PrQueue<int>::getPos(const Node<T>) const' being compiled
+          with
+          [
+              T=int
+          ]
+  Homework_17.vcxproj -> D:\ШАГ\PD322\C++\Homework_17\Debug\Homework_17.exe
