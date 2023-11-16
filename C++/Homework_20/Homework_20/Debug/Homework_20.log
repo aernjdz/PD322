@@ -1,0 +1,6 @@
+﻿  Homework_20.cpp
+D:\ШАГ\PD322\C++\Homework_20\Homework_20\Array.h(51,21): warning C4018: '>': signed/unsigned mismatch
+D:\ШАГ\PD322\C++\Homework_20\Homework_20\Array.h(44): message : while compiling class template member function 'void Array<int>::SetSize(int,int)'
+D:\ШАГ\PD322\C++\Homework_20\Homework_20\Homework_20.cpp(9): message : see reference to function template instantiation 'void Array<int>::SetSize(int,int)' being compiled
+D:\ШАГ\PD322\C++\Homework_20\Homework_20\Homework_20.cpp(6): message : see reference to class template instantiation 'Array<int>' being compiled
+  Homework_20.vcxproj -> D:\ШАГ\PD322\C++\Homework_20\Debug\Homework_20.exe
