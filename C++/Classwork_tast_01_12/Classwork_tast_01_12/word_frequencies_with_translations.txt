@@ -1,0 +1,44 @@
+Cz?stotliwo?? S?ów (Word Frequencies):
+a: 2 razy
+and: 2 razy
+are: 1 razy
+be: 2 razy
+c: 1 razy
+calculated: 1 razy
+contains: 1 razy
+demonstrates: 1 razy
+each: 1 razy
+for: 1 razy
+frequencies: 1 razy
+frequency: 1 razy
+frequent: 1 razy
+  T?umaczenia: cz?sty, cz?sto, 
+identified: 1 razy
+in: 1 razy
+is: 1 razy
+it: 1 razy
+map: 1 razy
+most: 1 razy
+  T?umaczenia: najbardziej, 
+of: 3 razy
+program: 1 razy
+  T?umaczenia: program, 
+purposes: 1 razy
+repeated: 1 razy
+sample: 1 razy
+  T?umaczenia: przyk?ad, wzorzec, 
+should: 2 razy
+some: 2 razy
+store: 1 razy
+testing: 1 razy
+text: 1 razy
+  T?umaczenia: tekst, 
+the: 3 razy
+these: 1 razy
+this: 2 razy
+to: 1 razy
+use: 1 razy
+word: 3 razy
+  T?umaczenia: s?owo, 
+words: 2 razy
+  T?umaczenia: s?owa, 
