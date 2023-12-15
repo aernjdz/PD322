@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Arquivos de Origem">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Cabeçalho">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Arquivos de Recurso">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Src\main.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\GameManager.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Entity.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Pacman\Pacman.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Snack\Snack.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Animation\Animator.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Animation\Animation.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Pathfinding\Pathfinding.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Enemy\Enemy.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Debugger\Debug.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Enemy\Blinky.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Enemy\Pinky.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Enemy\Inky.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Entity\Enemy\Clyde.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\Audio\AudioManager.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\States\State.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\States\GameState\GameState.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\States\MainMenuState\MainMenuState.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\UI\Button.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+    <ClCompile Include="Src\States\GameOverState\GameOverState.cpp">
+      <Filter>Arquivos de Origem</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Src\Tile.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\GameManager.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Common.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Entity.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Pacman\Pacman.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Snack\Snack.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Animation\Animator.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Animation\Animation.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Pathfinding\Pathfinding.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Enemy\Enemy.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Pathfinding\Node.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Debugger\Debug.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Enemy\Blinky.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Enemy\Pinky.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Enemy\Inky.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Entity\Enemy\Clyde.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Audio\AudioManager.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\Audio\AudioAssets.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\States\State.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\States\GameState\GameState.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\States\MainMenuState\MainMenuState.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\UI\Button.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+    <ClInclude Include="Src\States\GameOverState\GameOverState.h">
+      <Filter>Arquivos de Cabeçalho</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Resources\PacManSprites.png">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="Resources\pac-man-logo.png">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+    <Image Include="Resources\ready-gameover.png">
+      <Filter>Arquivos de Recurso</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="Resources\Sound\credit.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\death_1.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\death_2.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\eat_fruit.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\eat_ghost.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\extend.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\game_start.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\intermission.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\munch_1.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\munch_2.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\power_pellet.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\retreating.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\siren_1.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\siren_2.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\siren_3.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\siren_4.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\siren_5.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+    <Media Include="Resources\Sound\munch.wav">
+      <Filter>Arquivos de Recurso</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="Fonts\CrackMan.ttf" />
+  </ItemGroup>
+</Project>
