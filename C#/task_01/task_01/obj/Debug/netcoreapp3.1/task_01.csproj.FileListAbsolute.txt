@@ -1,0 +1,14 @@
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\task_01\task_01\bin\Debug\netcoreapp3.1\task_01.exe
+D:\ШАГ\PD322\C#\task_01\task_01\bin\Debug\netcoreapp3.1\task_01.deps.json
+D:\ШАГ\PD322\C#\task_01\task_01\bin\Debug\netcoreapp3.1\task_01.runtimeconfig.json
+D:\ШАГ\PD322\C#\task_01\task_01\bin\Debug\netcoreapp3.1\task_01.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\task_01\task_01\bin\Debug\netcoreapp3.1\task_01.dll
+D:\ШАГ\PD322\C#\task_01\task_01\bin\Debug\netcoreapp3.1\task_01.pdb
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.dll
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.pdb
+D:\ШАГ\PD322\C#\task_01\task_01\obj\Debug\netcoreapp3.1\task_01.genruntimeconfig.cache
