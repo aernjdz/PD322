@@ -1,0 +1,14 @@
+D:\ШАГ\PD322\C#\Task_02\Task_02\bin\Debug\netcoreapp3.1\Task_02.exe
+D:\ШАГ\PD322\C#\Task_02\Task_02\bin\Debug\netcoreapp3.1\Task_02.deps.json
+D:\ШАГ\PD322\C#\Task_02\Task_02\bin\Debug\netcoreapp3.1\Task_02.runtimeconfig.json
+D:\ШАГ\PD322\C#\Task_02\Task_02\bin\Debug\netcoreapp3.1\Task_02.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\Task_02\Task_02\bin\Debug\netcoreapp3.1\Task_02.dll
+D:\ШАГ\PD322\C#\Task_02\Task_02\bin\Debug\netcoreapp3.1\Task_02.pdb
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.dll
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.pdb
+D:\ШАГ\PD322\C#\Task_02\Task_02\obj\Debug\netcoreapp3.1\Task_02.genruntimeconfig.cache
