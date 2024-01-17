@@ -13,7 +13,6 @@ namespace Task_02
             phoneBook = new Dictionary<TKey, TValue>();
         }
 
-        
         public void AddEntry(TKey key, TValue value)
         {
             if (!phoneBook.ContainsKey(key))
@@ -26,12 +25,29 @@ namespace Task_02
                 Console.WriteLine($"An entry with the key {key} already exists in the phone book.");
             }
         }
-        public void UpdateEntry(TKey key, TValue newValue)
+
+        public void UpdateName(TKey oldKey, TKey newKey)
+        {
+            if (phoneBook.ContainsKey(oldKey))
+            {
+                TValue value = phoneBook[oldKey];
+                phoneBook.Remove(oldKey);
+                phoneBook.Add(newKey, value);
+
+                Console.WriteLine($"Name updated from {oldKey} to {newKey}");
+            }
+            else
+            {
+                Console.WriteLine($"The entry with the key {oldKey} (name) was not found in the phone book.");
+            }
+        }
+
+        public void UpdateNumber(TKey key, TValue newValue)
         {
             if (phoneBook.ContainsKey(key))
             {
                 phoneBook[key] = newValue;
-                Console.WriteLine($"Record with key {key} updated: {key} - {newValue}");
+                Console.WriteLine($"Phone number updated for {key}: {newValue}");
             }
             else
             {
@@ -39,7 +55,6 @@ namespace Task_02
             }
         }
 
-   
         public TValue FindEntry(TKey key)
         {
             if (phoneBook.ContainsKey(key))
@@ -53,7 +68,6 @@ namespace Task_02
             }
         }
 
-       
         public void RemoveEntry(TKey key)
         {
             if (phoneBook.ContainsKey(key))
@@ -77,4 +91,5 @@ namespace Task_02
             }
         }
     }
+
 }

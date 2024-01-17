@@ -8,20 +8,27 @@ namespace Task_02
         {
             PhoneBook<string, string> myPhoneBook = new PhoneBook<string, string>();
 
+          
             myPhoneBook.AddEntry("John", "555-1234");
             myPhoneBook.AddEntry("Alice", "555-5678");
             myPhoneBook.PrintEntries();
 
-            myPhoneBook.UpdateEntry("John", "555-4321");
+         
+            myPhoneBook.UpdateName("John", "Johnny");
+            myPhoneBook.UpdateNumber("Alice", "555-8765");
             myPhoneBook.PrintEntries();
 
-            string alicePhoneNumber = myPhoneBook.FindEntry("Alice");
-            Console.WriteLine($"Phone number is Alice: {alicePhoneNumber}");
+       
+            string johnnyPhoneNumber = myPhoneBook.FindEntry("Johnny");
+            Console.WriteLine($"Johnny's phone number: {johnnyPhoneNumber}");
 
+    
             myPhoneBook.RemoveEntry("Alice");
             myPhoneBook.PrintEntries();
 
-          
+            Console.ReadLine();
+
+
         }
     }
 }
