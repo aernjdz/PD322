@@ -1,0 +1,14 @@
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\bin\Debug\netcoreapp3.1\Homework_06.exe
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\bin\Debug\netcoreapp3.1\Homework_06.deps.json
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\bin\Debug\netcoreapp3.1\Homework_06.runtimeconfig.json
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\bin\Debug\netcoreapp3.1\Homework_06.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\bin\Debug\netcoreapp3.1\Homework_06.dll
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\bin\Debug\netcoreapp3.1\Homework_06.pdb
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.dll
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.pdb
+D:\ШАГ\PD322\C#\Homework_06\Homework_06\obj\Debug\netcoreapp3.1\Homework_06.genruntimeconfig.cache
