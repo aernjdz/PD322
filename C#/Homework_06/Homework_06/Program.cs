@@ -6,7 +6,24 @@ namespace Homework_06
     {
         static void Main(string[] args)
         {
-            
+            try
+            {
+                Console.Write("Enter your email: ");
+                string userEmail = Console.ReadLine();
+
+                Console.Write("Enter your password: ");
+                string userPassword = Console.ReadLine();
+
+                Account userAccount = new Account();
+                userAccount.Email = userEmail;
+                userAccount.Password = userPassword;
+
+                Console.WriteLine("Account created successfully!");
+            }
+            catch (ArgumentException ex)
+            {
+                Console.WriteLine($"Error: {ex.Message}");
+            }
             try
             {
 
