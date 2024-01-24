@@ -30,14 +30,14 @@ namespace Homework_07
                 Rating = 9.3
             });
 
-            // Display the movies in the Cinema
+
             Console.WriteLine("Movies in the Cinema:");
             foreach (Movie movie in cinema)
             {
                 Console.WriteLine(movie);
             }
 
-            // Sort movies by default (using IComparable)
+       
             Console.WriteLine("\nMovies after sorting by default:");
             cinema.Sort();
             foreach (Movie movie in cinema)
@@ -45,7 +45,6 @@ namespace Homework_07
                 Console.WriteLine(movie);
             }
 
-            // Sort movies by a custom comparer (using IComparer)
             Console.WriteLine("\nMovies after sorting by year:");
             cinema.Sort(new YearComparer());
             foreach (Movie movie in cinema)
