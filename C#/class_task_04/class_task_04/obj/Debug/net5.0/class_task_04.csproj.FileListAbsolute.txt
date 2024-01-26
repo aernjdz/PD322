@@ -1,0 +1,16 @@
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\bin\Debug\net5.0\class_task_04.exe
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\bin\Debug\net5.0\class_task_04.deps.json
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\bin\Debug\net5.0\class_task_04.runtimeconfig.json
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\bin\Debug\net5.0\class_task_04.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\bin\Debug\net5.0\class_task_04.dll
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\bin\Debug\net5.0\ref\class_task_04.dll
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\bin\Debug\net5.0\class_task_04.pdb
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.dll
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\ref\class_task_04.dll
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.pdb
+D:\ШАГ\PD322\C#\class_task_04\class_task_04\obj\Debug\net5.0\class_task_04.genruntimeconfig.cache
