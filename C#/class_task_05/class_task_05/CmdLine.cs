@@ -103,7 +103,7 @@ namespace class_task_05
                 Console.WriteLine(Path.GetFileName(file));
             }
 
-            Console.ResetColor(); // Скидаємо колір тексту
+            Console.ResetColor(); 
         }
 
         private void CreateFile(string fileName)
