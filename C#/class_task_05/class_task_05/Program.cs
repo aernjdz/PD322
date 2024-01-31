@@ -8,9 +8,10 @@ namespace class_task_05
         {
            
             CmdLine cmdLine = new CmdLine();
-            Console.ForegroundColor = ConsoleColor.Yellow;
+           
             while (true)
             {
+                Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.Write("> ");
                 string command = Console.ReadLine();
 

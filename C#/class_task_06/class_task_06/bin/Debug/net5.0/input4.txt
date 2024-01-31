@@ -1,0 +1,3 @@
+This is a sample text with some 10-digit numbers like 1234567890 and 9876543210.
+There are also other characters and numbers in the text.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
