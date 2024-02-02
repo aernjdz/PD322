@@ -54,6 +54,45 @@ namespace claswork_07
                 }
                 Console.WriteLine();
             }
+
+            List<Employee> employees = new List<Employee>
+        {
+            new Employee { Name = "John", Age = 35, Salary = 6000, Position = "Manager" },
+            new Employee { Name = "Alice", Age = 25, Salary = 4500, Position = "Assistant" },
+            new Employee { Name = "Bob", Age = 40, Salary = 7000, Position = "Manager" },
+            new Employee { Name = "Emily", Age = 30, Salary = 5500, Position = "Supervisor" },
+            new Employee { Name = "David", Age = 45, Salary = 8000, Position = "Director" }
+
+
+        };
+
+            var selected_Employees = employees.Where(emp => emp.Salary > 5000).Select(emp => new { emp.Name, emp.Salary });
+            var employees_Over_30 = employees.Where(emp => emp.Age > 30).OrderByDescending(emp => emp.Age);
+            double averageAge = employees.Average(emp => emp.Age);
+            var groupedByPosition = employees.GroupBy(emp => emp.Position);
+
+
+            Console.WriteLine("Employees with salary > 5000 ::");
+            foreach (var emp in selected_Employees)
+            {
+                Console.WriteLine($"Name: {emp.Name}, Salary :: {emp.Salary}");
+            }
+            Console.WriteLine("\nEmployees over 30 ordered by age (descending) ::");
+            foreach (var emp in employees_Over_30)
+            {
+                Console.WriteLine($"Name: {emp.Name}, Age :: {emp.Age}");
+            }
+            Console.WriteLine($"\nAverage age of employees :: {averageAge}");
+
+            Console.WriteLine("\nEmployees grouped by position:");
+            foreach (var group in groupedByPosition)
+            {
+                Console.WriteLine($"Position: {group.Key}");
+                foreach (var emp in group)
+                {
+                    Console.WriteLine($" - Name: {emp.Name}, Age: {emp.Age}, Salary: {emp.Salary}");
+                }
+            }
         }
     }
 }
