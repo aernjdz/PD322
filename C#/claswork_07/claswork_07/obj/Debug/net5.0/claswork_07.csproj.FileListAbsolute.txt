@@ -1,0 +1,16 @@
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\bin\Debug\net5.0\claswork_07.exe
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\bin\Debug\net5.0\claswork_07.deps.json
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\bin\Debug\net5.0\claswork_07.runtimeconfig.json
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\bin\Debug\net5.0\claswork_07.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\bin\Debug\net5.0\claswork_07.dll
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\bin\Debug\net5.0\ref\claswork_07.dll
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\bin\Debug\net5.0\claswork_07.pdb
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.dll
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\ref\claswork_07.dll
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.pdb
+D:\ШАГ\PD322\C#\claswork_07\claswork_07\obj\Debug\net5.0\claswork_07.genruntimeconfig.cache
