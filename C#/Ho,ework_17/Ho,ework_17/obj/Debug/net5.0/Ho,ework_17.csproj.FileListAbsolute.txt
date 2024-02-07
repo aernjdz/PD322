@@ -1,0 +1,16 @@
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\bin\Debug\net5.0\Ho,ework_17.exe
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\bin\Debug\net5.0\Ho,ework_17.deps.json
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\bin\Debug\net5.0\Ho,ework_17.runtimeconfig.json
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\bin\Debug\net5.0\Ho,ework_17.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\bin\Debug\net5.0\Ho,ework_17.dll
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\bin\Debug\net5.0\ref\Ho,ework_17.dll
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\bin\Debug\net5.0\Ho,ework_17.pdb
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.dll
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\ref\Ho,ework_17.dll
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.pdb
+D:\ШАГ\PD322\C#\Ho,ework_17\Ho,ework_17\obj\Debug\net5.0\Ho,ework_17.genruntimeconfig.cache
