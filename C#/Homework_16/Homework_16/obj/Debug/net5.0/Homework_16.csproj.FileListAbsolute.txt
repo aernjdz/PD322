@@ -1,0 +1,16 @@
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\bin\Debug\net5.0\Homework_16.exe
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\bin\Debug\net5.0\Homework_16.deps.json
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\bin\Debug\net5.0\Homework_16.runtimeconfig.json
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\bin\Debug\net5.0\Homework_16.runtimeconfig.dev.json
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\bin\Debug\net5.0\Homework_16.dll
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\bin\Debug\net5.0\ref\Homework_16.dll
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\bin\Debug\net5.0\Homework_16.pdb
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.AssemblyInfo.cs
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.dll
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\ref\Homework_16.dll
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.pdb
+D:\ШАГ\PD322\C#\Homework_16\Homework_16\obj\Debug\net5.0\Homework_16.genruntimeconfig.cache
