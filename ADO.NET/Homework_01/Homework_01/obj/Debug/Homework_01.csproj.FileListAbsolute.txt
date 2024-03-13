@@ -1,0 +1,10 @@
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\bin\Debug\Homework_01.exe.config
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\bin\Debug\Homework_01.exe
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\bin\Debug\Homework_01.pdb
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\obj\Debug\Homework_01.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\obj\Debug\Homework_01.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\obj\Debug\Homework.3147E7E3.Up2Date
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\obj\Debug\Homework_01.exe
+D:\ШАГ\PD322\ADO.NET\Homework_01\Homework_01\obj\Debug\Homework_01.pdb
