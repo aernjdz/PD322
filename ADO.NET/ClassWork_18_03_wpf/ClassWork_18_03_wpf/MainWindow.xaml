@@ -1,0 +1,17 @@
+﻿<Window x:Class="ClassWork_18_03_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ClassWork_18_03_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top">
+            <Button Click="showFlights" Padding="5" FontSize="16"  Background="#FF3895FF" Foreground="White" BorderBrush="#FF1048F5" Margin="5">Load Flight</Button>
+            <Button Click="showAirplanes" Padding="5" FontSize="16"  Background="#FF3895FF" Foreground="White" BorderBrush="#FF1048F5" Margin="5">Load Airplanes</Button>
+            <Button Click="showClients" Padding="5" FontSize="16"  Background="#FF3895FF" Foreground="White" BorderBrush="#FF1048F5" Margin="5"> Load Clients</Button>
+        </ToolBar>
+        <Grid></Grid>
+    </DockPanel>
+</Window>
