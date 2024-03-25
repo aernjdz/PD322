@@ -1,0 +1,36 @@
+﻿<Window x:Class="Classwork_25_03_wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Classwork_25_03_wpf"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="400">
+    <!-- <DockPanel>
+        <ToolBar DockPanel.Dock="Top">-->
+    <!--<Button Click="Refresh">-->
+    <!--            Refresh-->
+    <!-- </Button> -->
+    <!-- </ToolBar> -->
+    <!-- <DataGrid x:Name="grid" AutoGenerateColumns="False">-->
+    <!--     <DataGrid.Columns>-->
+    <!--       <DataGridTextColumn Header="Process Name" Binding="{Binding ProcessName}"/> -->
+    <!--       <DataGridTextColumn Header="PID" Binding="{Binding Id}"/> -->
+    <!--      <DataGridTextColumn Header="Total Processor Time" Binding="{Binding TotalProcessorTime}"/> -->
+    <!--      <DataGridTextColumn Header="Priority" Binding="{Binding PriorityClass}"/> -->
+    <!--      <DataGridTextColumn Header="User Name" Binding="{Binding UserName}"/> -->
+
+    <!-- </DataGrid.Columns> -->
+    <!-- </DataGrid> -->
+
+    <!-- </DockPanel> -->
+
+    <StackPanel Margin="10">
+        <Button Content="Launch Notepad" Click="LaunchProgram" Tag="notepad.exe" Margin="0 0 0 10"/>
+        <Button Content="Launch Calculator" Click="LaunchProgram" Tag="calc.exe" Margin="0 0 0 10"/>
+        <Button Content="Launch Paint" Click="LaunchProgram" Tag="mspaint.exe" Margin="0 0 0 10"/>
+        <TextBlock Text="Custom Program Path:" Margin="0 0 0 10"/>
+        <TextBox x:Name="CustomProgramPathTextBox" Margin="0 0 0 10"/>
+        <Button Content="Launch Custom Program" Click="LaunchCustomProgram" Margin="0 0 0 10"/>
+    </StackPanel>
+</Window>
