@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf\\processlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|solutionrelative:classwork_25_03_taskmanager_wpf\\processlistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf\\properties\\annotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|solutionrelative:classwork_25_03_taskmanager_wpf\\properties\\annotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|solutionrelative:classwork_25_03_taskmanager_wpf\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|solutionrelative:classwork_25_03_taskmanager_wpf\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|solutionrelative:classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|solutionrelative:classwork_25_03_taskmanager_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\classwork_25_03_taskmanager_wpf\\classwork_25_03_taskmanager_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D20144B-E44D-4C8C-A635-66E4CB876296}|ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj|solutionrelative:classwork_25_03_taskmanager_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T14:59:56.095Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "ClassWork_25_03_Taskmanager_wpf\\Properties\\Settings.settings",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\Properties\\Settings.settings",
+              "RelativeToolTip": "ClassWork_25_03_Taskmanager_wpf\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2024-03-25T16:04:01.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassWork_25_03_Taskmanager_wpf",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj",
+              "RelativeDocumentMoniker": "ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj",
+              "RelativeToolTip": "ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-25T16:00:12.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Annotations.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\Properties\\Annotations.cs",
+              "RelativeDocumentMoniker": "ClassWork_25_03_Taskmanager_wpf\\Properties\\Annotations.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\Properties\\Annotations.cs",
+              "RelativeToolTip": "ClassWork_25_03_Taskmanager_wpf\\Properties\\Annotations.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:44:54.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ClassWork_25_03_Taskmanager_wpf\\ViewModel.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\ViewModel.cs",
+              "RelativeToolTip": "ClassWork_25_03_Taskmanager_wpf\\ViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:43:37.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessListItem.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\ProcessListItem.cs",
+              "RelativeDocumentMoniker": "ClassWork_25_03_Taskmanager_wpf\\ProcessListItem.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\ProcessListItem.cs",
+              "RelativeToolTip": "ClassWork_25_03_Taskmanager_wpf\\ProcessListItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:35:38.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\ClassWork_25_03_Taskmanager_wpf\\ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml",
+              "RelativeToolTip": "ClassWork_25_03_Taskmanager_wpf\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-25T15:00:00.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

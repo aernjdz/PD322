@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_03\\homework_03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|solutionrelative:homework_03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_03\\homework_03\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|solutionrelative:homework_03\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_03\\homework_03\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|solutionrelative:homework_03\\app.config||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_03\\homework_03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{48EBD940-55A6-4148-A383-0C7663D726BF}|HomeWork_03\\HomeWork_03.csproj|solutionrelative:homework_03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 226,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\App.config",
+              "RelativeDocumentMoniker": "HomeWork_03\\App.config",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\App.config",
+              "RelativeToolTip": "HomeWork_03\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-26T19:17:39.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\App.xaml",
+              "RelativeDocumentMoniker": "HomeWork_03\\App.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\App.xaml",
+              "RelativeToolTip": "HomeWork_03\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T19:14:08.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HomeWork_03\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\MainWindow.xaml",
+              "RelativeToolTip": "HomeWork_03\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-26T18:50:24.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "HomeWork_03\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_03\\HomeWork_03\\MainWindow.xaml.cs",
+              "RelativeToolTip": "HomeWork_03\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwCUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T18:50:21.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
