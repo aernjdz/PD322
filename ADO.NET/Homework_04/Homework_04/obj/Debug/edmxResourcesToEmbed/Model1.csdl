@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="LibraryDBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="author">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="author_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="author_surname" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="age" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="books" Relationship="Self.FK__books__author_id__571DF1D5" FromRole="authors" ToRole="books" />
+  </EntityType>
+  <EntityType Name="book">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="book_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="author_id" Type="Int32" />
+    <Property Name="language_id" Type="Int32" />
+    <Property Name="pages_count" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="author" Relationship="Self.FK__books__author_id__571DF1D5" FromRole="books" ToRole="authors" />
+    <NavigationProperty Name="language" Relationship="Self.FK__books__language___5812160E" FromRole="books" ToRole="languages" />
+  </EntityType>
+  <EntityType Name="country">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="country_name" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="languages" Relationship="Self.FK__languages__count__52593CB8" FromRole="countries" ToRole="languages" />
+  </EntityType>
+  <EntityType Name="language">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="language_name" Type="String" MaxLength="30" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="country_id" Type="Int32" />
+    <NavigationProperty Name="books" Relationship="Self.FK__books__language___5812160E" FromRole="languages" ToRole="books" />
+    <NavigationProperty Name="country" Relationship="Self.FK__languages__count__52593CB8" FromRole="languages" ToRole="countries" />
+  </EntityType>
+  <Association Name="FK__books__author_id__571DF1D5">
+    <End Role="authors" Type="Self.author" Multiplicity="0..1" />
+    <End Role="books" Type="Self.book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="authors">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="books">
+        <PropertyRef Name="author_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__books__language___5812160E">
+    <End Role="languages" Type="Self.language" Multiplicity="0..1" />
+    <End Role="books" Type="Self.book" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="languages">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="books">
+        <PropertyRef Name="language_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__languages__count__52593CB8">
+    <End Role="countries" Type="Self.country" Multiplicity="0..1" />
+    <End Role="languages" Type="Self.language" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="countries">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="languages">
+        <PropertyRef Name="country_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="LibraryDBEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="authors" EntityType="Self.author" />
+    <EntitySet Name="books" EntityType="Self.book" />
+    <EntitySet Name="countries" EntityType="Self.country" />
+    <EntitySet Name="languages" EntityType="Self.language" />
+    <AssociationSet Name="FK__books__author_id__571DF1D5" Association="Self.FK__books__author_id__571DF1D5">
+      <End Role="authors" EntitySet="authors" />
+      <End Role="books" EntitySet="books" />
+    </AssociationSet>
+    <AssociationSet Name="FK__books__language___5812160E" Association="Self.FK__books__language___5812160E">
+      <End Role="languages" EntitySet="languages" />
+      <End Role="books" EntitySet="books" />
+    </AssociationSet>
+    <AssociationSet Name="FK__languages__count__52593CB8" Association="Self.FK__languages__count__52593CB8">
+      <End Role="countries" EntitySet="countries" />
+      <End Role="languages" EntitySet="languages" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
