@@ -1,0 +1,4 @@
+D:\ШАГ\PD322\ADO.NET\ClassWork_18_03_wpf\ClassWork_18_03_wpf\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ШАГ\PD322\ADO.NET\ClassWork_18_03_wpf\ClassWork_18_03_wpf\obj\Debug\net8.0-windows\App.g.cs
+D:\ШАГ\PD322\ADO.NET\ClassWork_18_03_wpf\ClassWork_18_03_wpf\obj\Debug\net8.0-windows\ClassWork_18_03_wpf_MarkupCompile.cache
+D:\ШАГ\PD322\ADO.NET\ClassWork_18_03_wpf\ClassWork_18_03_wpf\obj\Debug\net8.0-windows\ClassWork_18_03_wpf_MarkupCompile.lref
