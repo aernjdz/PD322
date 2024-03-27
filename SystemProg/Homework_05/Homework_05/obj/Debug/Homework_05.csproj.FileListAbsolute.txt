@@ -1,0 +1,12 @@
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\obj\Debug\Homework_05.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\obj\Debug\Homework_05.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\bin\Debug\Homework_05.exe.config
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\bin\Debug\Homework_05.exe
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\bin\Debug\Homework_05.pdb
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\bin\Debug\EntityFramework.dll
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\bin\Debug\EntityFramework.xml
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\obj\Debug\Homework.0FA007CF.Up2Date
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\obj\Debug\Homework_05.exe
+D:\ШАГ\PD322\SystemProg\Homework_05\Homework_05\obj\Debug\Homework_05.pdb
