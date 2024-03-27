@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\ClassWork_18_03\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\classwork_18_03\\classwork_18_03\\airplanedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|solutionrelative:classwork_18_03\\airplanedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\classwork_18_03\\classwork_18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|solutionrelative:classwork_18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8CDD0467-3E57-461C-8DD1-B378BCC0B4CC}|ClassWork_18_03_wpf\\ClassWork_18_03_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\classwork_18_03\\classwork_18_03_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8CDD0467-3E57-461C-8DD1-B378BCC0B4CC}|ClassWork_18_03_wpf\\ClassWork_18_03_wpf.csproj|solutionrelative:classwork_18_03_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -11,16 +19,8 @@
       "RelativeMoniker": "D:0:0:{8CDD0467-3E57-461C-8DD1-B378BCC0B4CC}|ClassWork_18_03_wpf\\ClassWork_18_03_wpf.csproj|solutionrelative:classwork_18_03_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\classwork_18_03\\classwork_18_03\\airplanedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|solutionrelative:classwork_18_03\\airplanedb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\classwork_18_03\\classwork_18_03\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|solutionrelative:classwork_18_03\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\classwork_18_03\\classwork_18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|solutionrelative:classwork_18_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{184FE906-9A11-4B26-8F96-25F10E6197F9}|ClassWork_18_03\\ClassWork_18_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\classwork_18_03\\classwork_18_03\\classwork_18_03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\ClassWork_18_03\\ClassWork_18_03_wpf\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ClassWork_18_03_wpf\\MainWindow.xaml",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\ClassWork_18_03\\ClassWork_18_03_wpf\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ClassWork_18_03_wpf\\MainWindow.xaml.cs",
@@ -75,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\ClassWork_18_03\\ClassWork_18_03\\DbInitializer.cs",
               "RelativeDocumentMoniker": "ClassWork_18_03\\DbInitializer.cs",
@@ -87,19 +87,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "AirplaneDB.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\ClassWork_18_03\\ClassWork_18_03\\AirplaneDB.cs",
               "RelativeDocumentMoniker": "ClassWork_18_03\\AirplaneDB.cs",
               "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\ClassWork_18_03\\ClassWork_18_03\\AirplaneDB.cs",
               "RelativeToolTip": "ClassWork_18_03\\AirplaneDB.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAgwG0AAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T16:23:46.845Z"
+              "WhenOpened": "2024-03-18T16:23:46.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\ClassWork_18_03\\ClassWork_18_03\\Program.cs",
               "RelativeDocumentMoniker": "ClassWork_18_03\\Program.cs",
@@ -107,7 +108,8 @@
               "RelativeToolTip": "ClassWork_18_03\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-18T16:23:17.284Z"
+              "WhenOpened": "2024-03-18T16:23:17.284Z",
+              "EditorCaption": ""
             }
           ]
         }
