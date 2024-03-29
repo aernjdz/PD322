@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_06\\homework_06\\migrations\\202403291402474_removecolumn-age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\migrations\\202403291402474_removecolumn-age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\homework_06\\entries\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\entries\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_06\\homework_06\\migrations\\202403291402038_removecolumn-datecreatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\migrations\\202403291402038_removecolumn-datecreatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\homework_06\\entries\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\entries\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_06\\homework_06\\ef\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\ef\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\homework_06\\entries\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\entries\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_06\\homework_06\\migrations\\202403291401109_addcolumn-datecreatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\migrations\\202403291401109_addcolumn-datecreatelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\homework_06\\entries\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\entries\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\homework_06\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_06\\homework_06\\migrations\\202403291359008_addcolumn-age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\migrations\\202403291359008_addcolumn-age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\homework_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\homework_06\\ef\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\ef\\initializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_06\\homework_06\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A805EB86-5DBF-4835-99E7-C9627248C325}|HomeWork_06\\HomeWork_06.csproj|solutionrelative:homework_06\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 161,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202403291402474_removeColumn-age.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291402474_removeColumn-age.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Migrations\\202403291402474_removeColumn-age.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291402474_removeColumn-age.cs",
+              "RelativeToolTip": "HomeWork_06\\Migrations\\202403291402474_removeColumn-age.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:02:52.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "202403291402038_removeColumn-datecreatelist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291402038_removeColumn-datecreatelist.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Migrations\\202403291402038_removeColumn-datecreatelist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291402038_removeColumn-datecreatelist.cs",
+              "RelativeToolTip": "HomeWork_06\\Migrations\\202403291402038_removeColumn-datecreatelist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:02:08.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202403291401109_addColumn-datecreatelist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291401109_addColumn-datecreatelist.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Migrations\\202403291401109_addColumn-datecreatelist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291401109_addColumn-datecreatelist.cs",
+              "RelativeToolTip": "HomeWork_06\\Migrations\\202403291401109_addColumn-datecreatelist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:01:15.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "202403291359008_addColumn-age.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291359008_addColumn-age.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Migrations\\202403291359008_addColumn-age.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\202403291359008_addColumn-age.cs",
+              "RelativeToolTip": "HomeWork_06\\Migrations\\202403291359008_addColumn-age.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:59:05.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "HomeWork_06\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T13:58:05.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\App.config",
+              "RelativeDocumentMoniker": "HomeWork_06\\App.config",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\App.config",
+              "RelativeToolTip": "HomeWork_06\\App.config",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-03-29T12:55:06.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Initializer.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\EF\\Initializer.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\EF\\Initializer.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\EF\\Initializer.cs",
+              "RelativeToolTip": "HomeWork_06\\EF\\Initializer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:18:12.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Track.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Entries\\Track.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Track.cs",
+              "RelativeToolTip": "HomeWork_06\\Entries\\Track.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:53:38.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Playlist.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Entries\\Playlist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Playlist.cs",
+              "RelativeToolTip": "HomeWork_06\\Entries\\Playlist.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBEAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:53:21.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Artist.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Entries\\Artist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Artist.cs",
+              "RelativeToolTip": "HomeWork_06\\Entries\\Artist.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:52:59.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Album.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Entries\\Album.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Entries\\Album.cs",
+              "RelativeToolTip": "HomeWork_06\\Entries\\Album.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:52:36.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusicLibrary.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\EF\\MusicLibrary.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\EF\\MusicLibrary.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\EF\\MusicLibrary.cs",
+              "RelativeToolTip": "HomeWork_06\\EF\\MusicLibrary.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:52:15.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork_06\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_06\\HomeWork_06\\Program.cs",
+              "RelativeToolTip": "HomeWork_06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:08:41.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
