@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "fdzHlCz8anox7LmPi6fNfFHTuKKnXCyHh1YHwxReOmxpxMd/uiqkxSJodhyZ+xUxfEEsppf8xsXCTxoqYzA96A==",
+  "success": true,
+  "projectFilePath": "D:\\ШАГ\\PD322\\ADO.NET\\Exam_wpf\\Exam_wpf\\Exam_wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38068\\.nuget\\packages\\materialdesigncolors\\3.0.0\\materialdesigncolors.3.0.0.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\materialdesignthemes\\5.0.0\\materialdesignthemes.5.0.0.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

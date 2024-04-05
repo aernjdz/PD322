@@ -8,6 +8,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Linq;
 
 namespace Classwork_03_04
 {
@@ -60,17 +61,9 @@ namespace Classwork_03_04
         {
             return await Task.Run(() =>
             {
-                if (n < 0)
-                {
-                    MessageBox.Show("Error", "Factorial is not defined for negative numbers.", MessageBoxButton.OK, MessageBoxImage.Error);
-                }
-                long result = 1;
-                for (int i = 2; i <= n; i++)
-                {
-                    result *= i;
-                }
                 Thread.Sleep(rnd.Next(10000));
-                return result;
+                return Enumerable.Range(2, n - 1).Aggregate(1L, (acc, x) => acc * x);
+
             });
         }
     }

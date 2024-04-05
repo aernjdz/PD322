@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SoundSleuth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("0.0.1+f874bf41535b06ec9123cf3e0dbb96a26df78fb6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SoundSleuth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SoundSleuth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

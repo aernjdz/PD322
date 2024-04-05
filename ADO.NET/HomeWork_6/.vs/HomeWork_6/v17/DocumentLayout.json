@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_6\\homework_6\\ef\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|solutionrelative:homework_6\\ef\\musiclibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_6\\homework_6\\entries\\playlisttrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|solutionrelative:homework_6\\entries\\playlisttrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_6\\homework_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|solutionrelative:homework_6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_6\\homework_6\\entries\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|solutionrelative:homework_6\\entries\\track.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_6\\homework_6\\entries\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|solutionrelative:homework_6\\entries\\playlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_6\\homework_6\\entries\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|solutionrelative:homework_6\\entries\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\homework_6\\homework_6\\entries\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6388D0EC-CF3E-4840-A948-A9FB220B020D}|HomeWork_6\\HomeWork_6.csproj|solutionrelative:homework_6\\entries\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Track.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Track.cs",
+              "RelativeDocumentMoniker": "HomeWork_6\\Entries\\Track.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Track.cs*",
+              "RelativeToolTip": "HomeWork_6\\Entries\\Track.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:03:08.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlaylistTrack.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\PlaylistTrack.cs",
+              "RelativeDocumentMoniker": "HomeWork_6\\Entries\\PlaylistTrack.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\PlaylistTrack.cs*",
+              "RelativeToolTip": "HomeWork_6\\Entries\\PlaylistTrack.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:03:03.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Playlist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Playlist.cs",
+              "RelativeDocumentMoniker": "HomeWork_6\\Entries\\Playlist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Playlist.cs*",
+              "RelativeToolTip": "HomeWork_6\\Entries\\Playlist.cs*",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:02:51.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Artist.cs",
+              "RelativeDocumentMoniker": "HomeWork_6\\Entries\\Artist.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Artist.cs*",
+              "RelativeToolTip": "HomeWork_6\\Entries\\Artist.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:02:39.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Album.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Album.cs",
+              "RelativeDocumentMoniker": "HomeWork_6\\Entries\\Album.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Entries\\Album.cs*",
+              "RelativeToolTip": "HomeWork_6\\Entries\\Album.cs*",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:02:13.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusicLibrary.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\EF\\MusicLibrary.cs",
+              "RelativeDocumentMoniker": "HomeWork_6\\EF\\MusicLibrary.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\EF\\MusicLibrary.cs*",
+              "RelativeToolTip": "HomeWork_6\\EF\\MusicLibrary.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T12:01:19.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Program.cs",
+              "RelativeDocumentMoniker": "HomeWork_6\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\HomeWork_6\\HomeWork_6\\Program.cs",
+              "RelativeToolTip": "HomeWork_6\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T11:59:26.702Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

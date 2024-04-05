@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_wpf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5038B5D-EE09-49D1-A864-5C28BA75ABEF}|Exam_wpf\\Exam_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\exam_wpf\\exam_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5038B5D-EE09-49D1-A864-5C28BA75ABEF}|Exam_wpf\\Exam_wpf.csproj|solutionrelative:exam_wpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5038B5D-EE09-49D1-A864-5C28BA75ABEF}|Exam_wpf\\Exam_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\exam_wpf\\exam_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A5038B5D-EE09-49D1-A864-5C28BA75ABEF}|Exam_wpf\\Exam_wpf.csproj|solutionrelative:exam_wpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5038B5D-EE09-49D1-A864-5C28BA75ABEF}|Exam_wpf\\Exam_wpf.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\exam_wpf\\exam_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5038B5D-EE09-49D1-A864-5C28BA75ABEF}|Exam_wpf\\Exam_wpf.csproj|solutionrelative:exam_wpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_wpf\\Exam_wpf\\App.xaml",
+              "RelativeDocumentMoniker": "Exam_wpf\\App.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_wpf\\Exam_wpf\\App.xaml*",
+              "RelativeToolTip": "Exam_wpf\\App.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-31T13:02:51.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_wpf\\Exam_wpf\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Exam_wpf\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_wpf\\Exam_wpf\\MainWindow.xaml*",
+              "RelativeToolTip": "Exam_wpf\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-31T13:02:10.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_wpf\\Exam_wpf\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Exam_wpf\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_wpf\\Exam_wpf\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Exam_wpf\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T13:02:08.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

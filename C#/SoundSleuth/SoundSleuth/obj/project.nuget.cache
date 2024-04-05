@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8PXJORHxaJvt8FgLF3/gsMjnsq+QD+zZ1fUyufTOpH+vuceNXwh+1Tqwna/e/s+j2ywqEW7YseRwANHK6qQnuA==",
+  "dgSpecHash": "VoVfU5HJplaLPB6si8V2vsiIet+O22G8ad59uVlqTmL5OR3Y+Rvbf7tIpPre9i9DXs1m2hQc13rfc2hHNKjN4w==",
   "success": true,
   "projectFilePath": "D:\\ШАГ\\PD322\\C#\\SoundSleuth\\SoundSleuth\\SoundSleuth.csproj",
   "expectedPackageFiles": [
@@ -18,7 +18,11 @@
     "C:\\Users\\38068\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
     "C:\\Users\\38068\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512",
     "C:\\Users\\38068\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
-    "C:\\Users\\38068\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.25\\microsoft.windows.sdk.net.ref.10.0.19041.25.nupkg.sha512"
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.19041.26\\microsoft.windows.sdk.net.ref.10.0.19041.26.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }
