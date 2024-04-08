@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\res\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EAD797CE-CDDC-4CEB-9891-BB08D518F04E}|res\\res.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\res\\res\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD797CE-CDDC-4CEB-9891-BB08D518F04E}|res\\res.csproj|solutionrelative:res\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EAD797CE-CDDC-4CEB-9891-BB08D518F04E}|res\\res.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\res\\res\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD797CE-CDDC-4CEB-9891-BB08D518F04E}|res\\res.csproj|solutionrelative:res\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAD797CE-CDDC-4CEB-9891-BB08D518F04E}|res\\res.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\res\\res\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EAD797CE-CDDC-4CEB-9891-BB08D518F04E}|res\\res.csproj|solutionrelative:res\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\res\\res\\Model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:res\\Model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Model1.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\res\\res\\Model1.cs",
               "RelativeDocumentMoniker": "res\\Model1.cs",
               "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\res\\res\\Model1.cs",
               "RelativeToolTip": "res\\Model1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T16:40:13.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\res\\res\\Program.cs",
               "RelativeDocumentMoniker": "res\\Program.cs",

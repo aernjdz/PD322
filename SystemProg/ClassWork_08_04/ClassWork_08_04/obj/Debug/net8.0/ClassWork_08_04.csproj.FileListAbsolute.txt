@@ -1,0 +1,15 @@
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\bin\Debug\net8.0\ClassWork_08_04.exe
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\bin\Debug\net8.0\ClassWork_08_04.deps.json
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\bin\Debug\net8.0\ClassWork_08_04.runtimeconfig.json
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\bin\Debug\net8.0\ClassWork_08_04.dll
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\bin\Debug\net8.0\ClassWork_08_04.pdb
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.AssemblyInfo.cs
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.sourcelink.json
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.dll
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\refint\ClassWork_08_04.dll
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.pdb
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ClassWork_08_04.genruntimeconfig.cache
+D:\ШАГ\PD322\SystemProg\ClassWork_08_04\ClassWork_08_04\obj\Debug\net8.0\ref\ClassWork_08_04.dll
