@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ww5eBQfJas/PqDLYyY3PoRMbNsmzZanTVxfBsF/mlvpxKai7NlmN0yMK/crgILpwm+Gxl+0UeUGXLSl4JHYyEA==",
+  "success": true,
+  "projectFilePath": "D:\\ШАГ\\PD322\\SystemProg\\Homework_03\\Homework_03\\Homework_03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38068\\.nuget\\packages\\fody\\6.6.4\\fody.6.6.4.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\propertychanged.fody\\4.1.0\\propertychanged.fody.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,86 @@
+﻿<Window x:Class="Homework_03.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Homework_03"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="800">
+    <Window.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="Padding" Value="5"/>
+            <Setter Property="Background" Value="#ff16660F"/>
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="FontFamily" Value="Bebas Neue"/>
+        </Style>
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontFamily" Value="Bebas Neue"/>
+        </Style>
+        <Style x:Key="pathBox" TargetType="{x:Type TextBox}">
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5"/>
+            <Setter Property="IsReadOnly" Value="True"/>
+        </Style>
+        <Style x:Key="countBox" TargetType="{x:Type TextBox}">
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
+    </Window.Resources>
+    <DockPanel  LastChildFill="False">
+            <Grid  DockPanel.Dock="Top">
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition  Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <Label Content="Directory Path:" Margin="5"/>
+                <TextBox x:Name="srcTextBox" Style="{StaticResource pathBox}" Grid.Column="1" />
+                <Button Click="OpenSource_btn" Grid.Column="2" Content="Browse"/>
+                <Button Click="Analisis_btn"  Content="Analysis" Grid.Column="1" Grid.Row="2"/>
+            <Grid Grid.Row="3" Grid.Column="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition  Width="Auto"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Label Content="Analysis result" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2" Margin="180,0,-180,0" />
+                <Label Content="File Name:" Grid.Column="0" Grid.Row="1"/>
+                <Label Content="{Binding AnalysisResult.FileName}" Grid.Column="1" Grid.Row="1"/>
+                <Label Content="Size:"  Grid.Column="0" Grid.Row="2"/>
+                <Label Content="{Binding AnalysisResult.FileSize}"  Grid.Column="1" Grid.Row="2"/>
+                <ProgressBar Value="{Binding Progress}" Grid.ColumnSpan="3" Grid.Row="3" x:Name="percent" DockPanel.Dock="Bottom" Height="30" />
+                <Label Grid.Row="4" Grid.Column="0" Content="Count Words:" />
+                <Label Grid.Row="4" Grid.Column="1" Content="{Binding AnalysisResult.WordsCount}" />
+                <Label Grid.Row="5" Grid.Column="0" Content="Count Lines:" />
+                <Label Grid.Row="5" Grid.Column="1" Content="{Binding AnalysisResult.LinesCount}" />
+                <Label Grid.Row="6" Grid.Column="0" Content="Count Punctuations:" />
+                <Label Grid.Row="6" Grid.Column="1" Content="{Binding AnalysisResult.PunctuationsCount}" />
+            </Grid>
+            
+       
+
+        </Grid>
+      
+       
+    </DockPanel>
+</Window>

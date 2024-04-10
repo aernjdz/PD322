@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBDB314-A27B-40CB-9EA3-CD3D7C370A85}|Homework_03\\Homework_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\homework_03\\homework_03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DBDB314-A27B-40CB-9EA3-CD3D7C370A85}|Homework_03\\Homework_03.csproj|solutionrelative:homework_03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DBDB314-A27B-40CB-9EA3-CD3D7C370A85}|Homework_03\\Homework_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\homework_03\\homework_03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5DBDB314-A27B-40CB-9EA3-CD3D7C370A85}|Homework_03\\Homework_03.csproj|solutionrelative:homework_03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 331,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_03\\Homework_03\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Homework_03\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_03\\Homework_03\\MainWindow.xaml",
+              "RelativeToolTip": "Homework_03\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T14:37:29.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_03\\Homework_03\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Homework_03\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_03\\Homework_03\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Homework_03\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:37:27.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
