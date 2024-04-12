@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Homework_04"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="815">
+        Title="MainWindow" Height="450" Width="800">
 
     <Window.Resources>
         <Style TargetType="{x:Type Button}">
@@ -16,22 +16,36 @@
             <Setter Property="Foreground" Value="White"/>
             <Setter Property="FontFamily" Value="Bebas Neue"/>
         </Style>
+        <Style TargetType="{x:Type Label}">
+            <Setter Property="FontSize" Value="14"/>
+            <Setter Property="FontFamily" Value="Bebas Neue"/>
+        </Style>
+        <Style x:Key="textBoxStyle" TargetType="{x:Type TextBox}">
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+            <Setter Property="Margin" Value="5"/>
+        </Style>
     </Window.Resources>
 
     <Grid>
         <Grid.RowDefinitions>
-            <RowDefinition Height="200"/>
-            <RowDefinition Height="200"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
         </Grid.RowDefinitions>
 
-        <TextBox Grid.Row="0" Margin="20" TextChanged="TextBox_TextChanged" VerticalAlignment="Top"/>
+        <Label Content="Enter Text:" Grid.Row="0" Margin="5"/>
+        <TextBox x:Name="inputTextBox" Grid.Row="0" Margin="5" TextWrapping="Wrap" AcceptsReturn="True"/>
 
-        <StackPanel Grid.Row="1" Margin="20">
-            <Button Name="analyzeButton" Content="Analyze" Click="Button_Click" HorizontalAlignment="Left" VerticalAlignment="Top"/>
-            <Button Name="saveButton" Content="Save Report" Click="Button_Click_1" HorizontalAlignment="Left" Margin="10,0,0,0" VerticalAlignment="Top"/>
+        <Button Content="Analyze" Click="AnalyzeButton_Click" Grid.Row="1" Margin="5"/>
 
-            <TextBox Name="reportTextBox" HorizontalAlignment="Left" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <Label Content="Analysis Result:" Grid.Row="2" Margin="5"/>
+        <TextBox x:Name="resultTextBox" Grid.Row="3" Margin="5" TextWrapping="Wrap" AcceptsReturn="True" IsReadOnly="True"/>
+
+        <StackPanel Grid.Row="4" Orientation="Horizontal" HorizontalAlignment="Center">
+            <RadioButton x:Name="showOnScreenRadioButton" Content="Show on Screen" Margin="5"/>
+            <RadioButton x:Name="saveToFileRadioButton" Content="Save to File" Margin="5"/>
         </StackPanel>
     </Grid>
-
 </Window>
