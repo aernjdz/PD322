@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB8912-9453-421A-A5DD-3AD2D89680F7}|Homework_05_02_UI\\Homework_05_02_UI.csproj|d:\\\u0448\u0430\u0433\\pd322\\systemprog\\homework_05\\homework_05_02_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB8912-9453-421A-A5DD-3AD2D89680F7}|Homework_05_02_UI\\Homework_05_02_UI.csproj|solutionrelative:homework_05_02_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB8912-9453-421A-A5DD-3AD2D89680F7}|Homework_05_02_UI\\Homework_05_02_UI.csproj|D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\homework_05_02_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F3BB8912-9453-421A-A5DD-3AD2D89680F7}|Homework_05_02_UI\\Homework_05_02_UI.csproj|solutionrelative:homework_05_02_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\homework_05_02_dal\\librarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|solutionrelative:homework_05_02_dal\\librarymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\homework_05_02_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|solutionrelative:homework_05_02_dal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB8912-9453-421A-A5DD-3AD2D89680F7}|Homework_05_02_UI\\Homework_05_02_UI.csproj|D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\homework_05_02_ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F3BB8912-9453-421A-A5DD-3AD2D89680F7}|Homework_05_02_UI\\Homework_05_02_UI.csproj|solutionrelative:homework_05_02_ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\homework_05_02_dal\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|solutionrelative:homework_05_02_dal\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\homework_05_02_dal\\migrations\\202404141138414_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|solutionrelative:homework_05_02_dal\\migrations\\202404141138414_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\homework_05_02_dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F6FD1E8-FF49-4B77-97F7-E9467B696A9E}|Homework_05_02_DAL\\Homework_05_02_DAL.csproj|solutionrelative:homework_05_02_dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 318,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Book.cs",
+              "RelativeDocumentMoniker": "Homework_05_02_DAL\\Book.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Book.cs",
+              "RelativeToolTip": "Homework_05_02_DAL\\Book.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T12:03:35.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_UI\\App.config",
+              "RelativeDocumentMoniker": "Homework_05_02_UI\\App.config",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_UI\\App.config",
+              "RelativeToolTip": "Homework_05_02_UI\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-14T11:47:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Homework_05_02_UI\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_UI\\MainWindow.xaml",
+              "RelativeToolTip": "Homework_05_02_UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-14T11:42:27.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Homework_05_02_UI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Homework_05_02_UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:42:27.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202404141138414_init.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Migrations\\202404141138414_init.cs",
+              "RelativeDocumentMoniker": "Homework_05_02_DAL\\Migrations\\202404141138414_init.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Migrations\\202404141138414_init.cs",
+              "RelativeToolTip": "Homework_05_02_DAL\\Migrations\\202404141138414_init.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:38:55.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Homework_05_02_DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Homework_05_02_DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAqwDsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:37:42.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LIbraryModel.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\LIbraryModel.cs",
+              "RelativeDocumentMoniker": "Homework_05_02_DAL\\LIbraryModel.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\LIbraryModel.cs",
+              "RelativeToolTip": "Homework_05_02_DAL\\LIbraryModel.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwDAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:33:35.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Program.cs",
+              "RelativeDocumentMoniker": "Homework_05_02_DAL\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\SystemProg\\Homework_05\\Homework_05_02_DAL\\Program.cs",
+              "RelativeToolTip": "Homework_05_02_DAL\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T11:32:21.058Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

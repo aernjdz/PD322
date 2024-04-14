@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Exam_DAL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{346ECBA2-7830-47C5-80A6-5C7108BF3296}|exam\\Exam_UI.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\exam_wpf\\exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{346ECBA2-7830-47C5-80A6-5C7108BF3296}|exam\\Exam_UI.csproj|solutionrelative:exam\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -48,6 +51,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{96FE7268-41F7-4D3C-864E-5FB987D2C922}|Exam_DAL\\Exam_DAL.csproj|D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\exam_dal\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{96FE7268-41F7-4D3C-864E-5FB987D2C922}|Exam_DAL\\Exam_DAL.csproj|solutionrelative:exam_dal\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96FE7268-41F7-4D3C-864E-5FB987D2C922}|Exam_DAL\\Exam_DAL.csproj|d:\\\u0448\u0430\u0433\\pd322\\ado.net\\exam_wpf\\exam_dal\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -57,11 +63,23 @@
       "DocumentGroups": [
         {
           "DockedHeight": 318,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
+              "Title": "Exam_DAL",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\Exam_DAL.csproj",
+              "RelativeDocumentMoniker": "Exam_DAL\\Exam_DAL.csproj",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\Exam_DAL.csproj",
+              "RelativeToolTip": "Exam_DAL\\Exam_DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-14T10:59:13.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "202404140933326_InitialCreate.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\Migrations\\202404140933326_InitialCreate.cs",
               "RelativeDocumentMoniker": "Exam_DAL\\Migrations\\202404140933326_InitialCreate.cs",
@@ -73,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Configuration.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\Migrations\\Configuration.cs",
               "RelativeDocumentMoniker": "Exam_DAL\\Migrations\\Configuration.cs",
@@ -85,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.config",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\App.config",
               "RelativeDocumentMoniker": "Exam_DAL\\App.config",
@@ -97,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DbInitializer.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\DbInitializer.cs",
               "RelativeDocumentMoniker": "Exam_DAL\\DbInitializer.cs",
@@ -109,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "book.cs",
               "DocumentMoniker": "C:\\Users\\38068\\AppData\\Local\\Temp\\Rar$DIa20632.25028\\book.cs",
               "ToolTip": "C:\\Users\\38068\\AppData\\Local\\Temp\\Rar$DIa20632.25028\\book.cs",
@@ -119,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Book.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\Book.cs",
               "RelativeDocumentMoniker": "Exam_DAL\\Book.cs",
@@ -131,7 +149,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "LibraryModel.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\LibraryModel.cs",
               "RelativeDocumentMoniker": "Exam_DAL\\LibraryModel.cs",
@@ -143,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\Exam_DAL\\Program.cs",
               "RelativeDocumentMoniker": "Exam_DAL\\Program.cs",
@@ -155,7 +173,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "packages.config",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\exam\\packages.config",
               "RelativeDocumentMoniker": "exam\\packages.config",
@@ -167,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\exam\\App.config",
               "RelativeDocumentMoniker": "exam\\App.config",
@@ -179,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\exam\\MainWindow.xaml",
               "RelativeDocumentMoniker": "exam\\MainWindow.xaml",
@@ -190,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\ADO.NET\\Exam_WPF\\exam\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "exam\\MainWindow.xaml.cs",

@@ -1,0 +1,36 @@
+﻿<Window x:Class="Homework_05_02_UI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition  Width="Auto"/>
+            <ColumnDefinition  Width="*"/>
+            <ColumnDefinition  Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ComboBox x:Name="authorComboBox" Margin="10 10 10 10" Width="380" DisplayMemberPath="Name" SelectedValuePath="AuthorId" SelectionChanged="authorComboBox_SelectionChanged"  Grid.Row="0"/>
+        <TextBox Grid.Column="1"  Margin="10 10 10 10" x:Name="searchTextBox"  Width="200"
+            TextChanged="searchTextBox_TextChanged"  Grid.Row="0" />
+        <DataGrid Grid.Row="1" Grid.ColumnSpan="2" x:Name="bookDataGrid" HorizontalAlignment="Center" VerticalAlignment="Top" 
+                  AutoGenerateColumns="False" SelectionMode="Single" Width="745" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Title" Binding="{Binding Title}" />
+                <DataGridTextColumn Header="Author" Binding="{Binding Author.Name}" />
+                <DataGridTextColumn Header="Year" Binding="{Binding Year}" />
+                <DataGridTextColumn Header="Genre" Binding="{Binding Genre}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <ProgressBar Height="20" Grid.Row="2" Grid.ColumnSpan="2" IsIndeterminate="True"/>
+    </Grid>
+  
+</Window>

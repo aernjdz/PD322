@@ -1,0 +1,14 @@
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\bin\Debug\Homework_05_02_DAL.exe.config
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\bin\Debug\Homework_05_02_DAL.exe
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\bin\Debug\Homework_05_02_DAL.pdb
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\bin\Debug\EntityFramework.dll
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\bin\Debug\EntityFramework.xml
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\obj\Debug\Homework_05_02_DAL.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\obj\Debug\Homework_05_02_DAL.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\obj\Debug\Homework.2305F1AD.Up2Date
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\obj\Debug\Homework_05_02_DAL.exe
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\obj\Debug\Homework_05_02_DAL.pdb
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\obj\Debug\Homework_05_02_DAL.Migrations.init.resources
+D:\ШАГ\PD322\SystemProg\Homework_05_2\Homework_05_02_DAL\obj\Debug\Homework_05_02_DAL.csproj.GenerateResource.cache
