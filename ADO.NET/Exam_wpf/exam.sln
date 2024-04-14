@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_UI", "exam\Exam_UI.csproj", "{346ECBA2-7830-47C5-80A6-5C7108BF3296}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam_DAL", "Exam_DAL\Exam_DAL.csproj", "{96FE7268-41F7-4D3C-864E-5FB987D2C922}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{346ECBA2-7830-47C5-80A6-5C7108BF3296}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{346ECBA2-7830-47C5-80A6-5C7108BF3296}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{346ECBA2-7830-47C5-80A6-5C7108BF3296}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{346ECBA2-7830-47C5-80A6-5C7108BF3296}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96FE7268-41F7-4D3C-864E-5FB987D2C922}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96FE7268-41F7-4D3C-864E-5FB987D2C922}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96FE7268-41F7-4D3C-864E-5FB987D2C922}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96FE7268-41F7-4D3C-864E-5FB987D2C922}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C2B75DB-56C1-483F-A37A-C11D9801316C}
+	EndGlobalSection
+EndGlobal

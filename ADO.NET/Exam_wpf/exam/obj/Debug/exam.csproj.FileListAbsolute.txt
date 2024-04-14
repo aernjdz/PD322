@@ -1,0 +1,31 @@
+C:\Users\User\source\repos\exam\exam\bin\Debug\exam.exe.config
+C:\Users\User\source\repos\exam\exam\bin\Debug\exam.exe
+C:\Users\User\source\repos\exam\exam\bin\Debug\exam.pdb
+C:\Users\User\source\repos\exam\exam\bin\Debug\EntityFramework.dll
+C:\Users\User\source\repos\exam\exam\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\source\repos\exam\exam\bin\Debug\EntityFramework.xml
+C:\Users\User\source\repos\exam\exam\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\exam\exam\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\exam\exam\obj\Debug\App.g.cs
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam_MarkupCompile.cache
+C:\Users\User\source\repos\exam\exam\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.g.resources
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.csproj.Up2Date
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.exe
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.pdb
+C:\Users\User\source\repos\exam\exam\obj\Debug\exam.Migrations.Initial.resources
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\MainWindow.baml
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\MainWindow.g.cs
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\App.g.cs
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam_MarkupCompile.cache
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam.g.resources
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam.exe
+C:\Users\38068\OneDrive\Робочий стіл\exam\exam\obj\Debug\exam.pdb

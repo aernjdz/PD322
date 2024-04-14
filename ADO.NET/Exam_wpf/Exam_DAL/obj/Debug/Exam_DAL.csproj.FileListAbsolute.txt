@@ -1,0 +1,14 @@
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\obj\Debug\Exam_DAL.csproj.AssemblyReference.cache
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\obj\Debug\Exam_DAL.csproj.CoreCompileInputs.cache
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\bin\Debug\Exam_DAL.exe.config
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\bin\Debug\Exam_DAL.exe
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\bin\Debug\Exam_DAL.pdb
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\bin\Debug\EntityFramework.dll
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\bin\Debug\EntityFramework.xml
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\obj\Debug\Exam_DAL.csproj.Up2Date
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\obj\Debug\Exam_DAL.exe
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\obj\Debug\Exam_DAL.pdb
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\obj\Debug\Exam_DAL.Migrations.InitialCreate.resources
+C:\Users\38068\OneDrive\Робочий стіл\exam\Exam_DAL\obj\Debug\Exam_DAL.csproj.GenerateResource.cache
