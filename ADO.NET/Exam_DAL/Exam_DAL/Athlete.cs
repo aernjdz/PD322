@@ -12,7 +12,7 @@ namespace Exam_DAL
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Athlete()
         {
-            Medal = new HashSet<Medal>();
+            Medals = new HashSet<Medal>();
         }
 
         public int id { get; set; }
@@ -36,6 +36,6 @@ namespace Exam_DAL
         public virtual Sport Sport { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Medal> Medal { get; set; }
+        public virtual ICollection<Medal> Medals { get; set; }
     }
 }

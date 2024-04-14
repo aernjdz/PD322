@@ -12,8 +12,8 @@ namespace Exam_DAL
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2214:DoNotCallOverridableMethodsInConstructors")]
         public Sport()
         {
-            Athlete = new HashSet<Athlete>();
-            Event = new HashSet<Event>();
+            Athletes = new HashSet<Athlete>();
+            Events = new HashSet<Event>();
         }
 
         public int id { get; set; }
@@ -23,9 +23,9 @@ namespace Exam_DAL
         public string name { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Athlete> Athlete { get; set; }
+        public virtual ICollection<Athlete> Athletes { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Event> Event { get; set; }
+        public virtual ICollection<Event> Events { get; set; }
     }
 }

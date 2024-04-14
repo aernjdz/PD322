@@ -22,6 +22,6 @@ namespace Exam_DAL
 
         public virtual Athlete Athlete { get; set; }
 
-        public virtual OlympicGames OlympicGames { get; set; }
+        public virtual OlympicGame OlympicGame { get; set; }
     }
 }

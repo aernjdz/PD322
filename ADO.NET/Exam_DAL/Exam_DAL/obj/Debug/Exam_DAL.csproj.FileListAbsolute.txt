@@ -1,0 +1,12 @@
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\bin\Debug\Exam_DAL.dll.config
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\bin\Debug\Exam_DAL.dll
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\bin\Debug\Exam_DAL.pdb
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\bin\Debug\EntityFramework.dll
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\bin\Debug\EntityFramework.xml
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\obj\Debug\Exam_DAL.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\obj\Debug\Exam_DAL.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\obj\Debug\Exam_DAL.csproj.Up2Date
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\obj\Debug\Exam_DAL.dll
+D:\ШАГ\PD322\ADO.NET\Exam_DAL\Exam_DAL\obj\Debug\Exam_DAL.pdb

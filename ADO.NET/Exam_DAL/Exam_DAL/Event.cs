@@ -17,7 +17,7 @@ namespace Exam_DAL
 
         public int? participants { get; set; }
 
-        public virtual OlympicGames OlympicGames { get; set; }
+        public virtual OlympicGame OlympicGame { get; set; }
 
         public virtual Sport Sport { get; set; }
     }
