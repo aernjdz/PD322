@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hc/lwkG3/SwdGOZP6wkussZKOAjLk6YvpjwYLYU2PFaEUqA4HBcv+k+QP7wMoQutgVj2Ye0G+tG5hEhYjJlkMg==",
+  "success": true,
+  "projectFilePath": "D:\\ШАГ\\PD322\\NetworkProg\\Classwork_22_04\\Classwork_22_04\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38068\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\38068\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

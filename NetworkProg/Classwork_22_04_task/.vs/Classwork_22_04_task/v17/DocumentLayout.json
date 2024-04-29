@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E49E8F-36D8-4FAE-B405-CB6C52041B2A}|Client\\Client.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\classwork_22_04_task\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7E49E8F-36D8-4FAE-B405-CB6C52041B2A}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7E49E8F-36D8-4FAE-B405-CB6C52041B2A}|Client\\Client.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\classwork_22_04_task\\client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F7E49E8F-36D8-4FAE-B405-CB6C52041B2A}|Client\\Client.csproj|solutionrelative:client\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA02EE1B-535E-408E-B7F5-ECE0DC527579}|Classwork_22_04_task\\Server.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\classwork_22_04_task\\classwork_22_04_task\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FA02EE1B-535E-408E-B7F5-ECE0DC527579}|Classwork_22_04_task\\Server.csproj|solutionrelative:classwork_22_04_task\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA02EE1B-535E-408E-B7F5-ECE0DC527579}|Classwork_22_04_task\\Classwork_22_04_task.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\classwork_22_04_task\\classwork_22_04_task\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA02EE1B-535E-408E-B7F5-ECE0DC527579}|Classwork_22_04_task\\Classwork_22_04_task.csproj|solutionrelative:classwork_22_04_task\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA02EE1B-535E-408E-B7F5-ECE0DC527579}|Classwork_22_04_task\\Classwork_22_04_task.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\classwork_22_04_task\\classwork_22_04_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA02EE1B-535E-408E-B7F5-ECE0DC527579}|Classwork_22_04_task\\Classwork_22_04_task.csproj|solutionrelative:classwork_22_04_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Client\\App.config",
+              "RelativeDocumentMoniker": "Client\\App.config",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Client\\App.config",
+              "RelativeToolTip": "Client\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-22T15:01:45.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:55:11.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Classwork_22_04_task\\Server.csproj",
+              "RelativeDocumentMoniker": "Classwork_22_04_task\\Server.csproj",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Classwork_22_04_task\\Server.csproj",
+              "RelativeToolTip": "Classwork_22_04_task\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-22T14:37:54.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Classwork_22_04_task\\Server.cs",
+              "RelativeDocumentMoniker": "Classwork_22_04_task\\Server.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Classwork_22_04_task\\Server.cs",
+              "RelativeToolTip": "Classwork_22_04_task\\Server.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwC0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:37:49.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Classwork_22_04_task\\Program.cs",
+              "RelativeDocumentMoniker": "Classwork_22_04_task\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Classwork_22_04_task\\Classwork_22_04_task\\Program.cs",
+              "RelativeToolTip": "Classwork_22_04_task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:36:48.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

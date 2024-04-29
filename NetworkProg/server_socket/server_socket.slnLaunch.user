@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "server_socket\\server_socket.csproj",
+        "Action": "Start"
+      },
+      {
+        "Name": "sync_client\\sync_client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

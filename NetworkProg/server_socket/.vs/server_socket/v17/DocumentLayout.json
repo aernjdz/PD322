@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\server_socket\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE7D61CB-3F4D-4806-AFFD-6AD1AD3AE363}|server_socket\\server_socket.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\server_socket\\server_socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE7D61CB-3F4D-4806-AFFD-6AD1AD3AE363}|server_socket\\server_socket.csproj|solutionrelative:server_socket\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F2D6B030-D4DD-43CF-A592-CD17B070D5B0}|sync_client\\sync_client.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\server_socket\\sync_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F2D6B030-D4DD-43CF-A592-CD17B070D5B0}|sync_client\\sync_client.csproj|solutionrelative:sync_client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 318,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\server_socket\\sync_client\\Program.cs",
+              "RelativeDocumentMoniker": "sync_client\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\server_socket\\sync_client\\Program.cs",
+              "RelativeToolTip": "sync_client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:33:05.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\server_socket\\server_socket\\Program.cs",
+              "RelativeDocumentMoniker": "server_socket\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\server_socket\\server_socket\\Program.cs",
+              "RelativeToolTip": "server_socket\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAADwvyEAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:31:56.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "ServerApp_17_04\\ServerApp_17_04.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "Classwork_17_04\\Classwork_17_04.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": "Classwork_17_04"
+      }
+    ]
+  }
+]

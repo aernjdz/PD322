@@ -1,0 +1,15 @@
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\bin\Debug\net8.0\sync_client.exe
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\bin\Debug\net8.0\sync_client.deps.json
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\bin\Debug\net8.0\sync_client.runtimeconfig.json
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\bin\Debug\net8.0\sync_client.dll
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\bin\Debug\net8.0\sync_client.pdb
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.AssemblyInfo.cs
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.sourcelink.json
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.dll
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\refint\sync_client.dll
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.pdb
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\sync_client.genruntimeconfig.cache
+D:\ШАГ\PD322\NetworkProg\server_socket\sync_client\obj\Debug\net8.0\ref\sync_client.dll
