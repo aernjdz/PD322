@@ -1,0 +1,14 @@
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\Server.exe.config
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\Server.exe
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\Server.pdb
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\EntityFramework.dll
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\EntityFramework.SqlServer.dll
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\EntityFramework.xml
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\EntityFramework.SqlServer.xml
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\obj\Debug\Server.csproj.Up2Date
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\obj\Debug\Server.exe
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\obj\Debug\Server.pdb
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\ШАГ\PD322\NetworkProg\Homework_01\Server\bin\Debug\System.Configuration.ConfigurationManager.xml
