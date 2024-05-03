@@ -7,19 +7,55 @@
       "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_06\\homework_06\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_06\\homework_06\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\homework_06\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_06\\homework_06\\mailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\mailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_06\\homework_06\\loginvieawmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\loginvieawmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_06\\homework_06\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_06\\homework_06\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_06\\homework_06\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AF69363-7C81-403C-969B-F3E02A344453}|Homework_06\\Homework_06.csproj|solutionrelative:homework_06\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 256,
+      "VerticalTabListWidth": 100,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "Homework_06\\LoginWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\LoginWindow.xaml",
+              "RelativeToolTip": "Homework_06\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T16:33:33.681Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +64,78 @@
               "RelativeDocumentMoniker": "Homework_06\\MainWindow.xaml.cs",
               "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\MainWindow.xaml.cs",
               "RelativeToolTip": "Homework_06\\MainWindow.xaml.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowD0AAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T13:37:23.584Z",
+              "WhenOpened": "2024-05-03T16:32:59.707Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Homework_06\\RelayCommand.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\RelayCommand.cs",
+              "RelativeToolTip": "Homework_06\\RelayCommand.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAQwCUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:28:00.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\App.xaml",
+              "RelativeDocumentMoniker": "Homework_06\\App.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\App.xaml",
+              "RelativeToolTip": "Homework_06\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T16:26:56.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginVieawModel.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\LoginVieawModel.cs",
+              "RelativeDocumentMoniker": "Homework_06\\LoginVieawModel.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\LoginVieawModel.cs",
+              "RelativeToolTip": "Homework_06\\LoginVieawModel.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAkwBgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:25:40.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Homework_06\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "Homework_06\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:20:30.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MailViewModel.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\MailViewModel.cs",
+              "RelativeDocumentMoniker": "Homework_06\\MailViewModel.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\MailViewModel.cs",
+              "RelativeToolTip": "Homework_06\\MailViewModel.cs",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAQwFsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T16:13:26.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_06\\Homework_06\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Homework_06\\MainWindow.xaml",

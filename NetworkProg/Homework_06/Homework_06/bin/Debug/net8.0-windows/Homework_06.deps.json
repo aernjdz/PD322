@@ -10,7 +10,7 @@
         "dependencies": {
           "MailKit": "4.5.0",
           "MimeKit": "4.5.0",
-          "WindowsAPICodePack-Shell": "1.1.1"
+          "PropertyChanged.Fody": "4.1.0"
         },
         "runtime": {
           "Homework_06.dll": {}
@@ -24,6 +24,7 @@
           }
         }
       },
+      "Fody/6.6.4": {},
       "MailKit/4.5.0": {
         "dependencies": {
           "MimeKit": "4.5.0"
@@ -47,6 +48,11 @@
           }
         }
       },
+      "PropertyChanged.Fody/4.1.0": {
+        "dependencies": {
+          "Fody": "6.6.4"
+        }
+      },
       "System.Formats.Asn1/8.0.0": {},
       "System.Security.Cryptography.Pkcs/8.0.0": {
         "dependencies": {
@@ -66,25 +72,6 @@
             "fileVersion": "8.0.23.53103"
           }
         }
-      },
-      "WindowsAPICodePack-Core/1.1.1": {
-        "runtime": {
-          "lib/Microsoft.WindowsAPICodePack.dll": {
-            "assemblyVersion": "1.1.0.0",
-            "fileVersion": "1.1.0.0"
-          }
-        }
-      },
-      "WindowsAPICodePack-Shell/1.1.1": {
-        "dependencies": {
-          "WindowsAPICodePack-Core": "1.1.1"
-        },
-        "runtime": {
-          "lib/Microsoft.WindowsAPICodePack.Shell.dll": {
-            "assemblyVersion": "1.1.0.0",
-            "fileVersion": "1.1.0.0"
-          }
-        }
       }
     }
   },
@@ -101,6 +88,13 @@
       "path": "bouncycastle.cryptography/2.3.0",
       "hashPath": "bouncycastle.cryptography.2.3.0.nupkg.sha512"
     },
+    "Fody/6.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vLZS+oa+ndUHYPlx/8n9bBTT3dHkCF0riml4paKq4D663+cZd47x1uagQo32D/gKFZ/sfmV1oqKaLmH0elxq4A==",
+      "path": "fody/6.6.4",
+      "hashPath": "fody.6.6.4.nupkg.sha512"
+    },
     "MailKit/4.5.0": {
       "type": "package",
       "serviceable": true,
@@ -115,6 +109,13 @@
       "path": "mimekit/4.5.0",
       "hashPath": "mimekit.4.5.0.nupkg.sha512"
     },
+    "PropertyChanged.Fody/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6v+f9cI8YjnZH2WBHuOqWEAo8DFFNGFIdU8xD3AsL6fhV6Y8oAmVWd7XKk49t8DpeUBwhR/X+97+6Epvek0Y3A==",
+      "path": "propertychanged.fody/4.1.0",
+      "hashPath": "propertychanged.fody.4.1.0.nupkg.sha512"
+    },
     "System.Formats.Asn1/8.0.0": {
       "type": "package",
       "serviceable": true,
@@ -128,20 +129,6 @@
       "sha512": "sha512-ULmp3xoOwNYjOYp4JZ2NK/6NdTgiN1GQXzVVN1njQ7LOZ0d0B9vyMnhyqbIi9Qw4JXj1JgCsitkTShboHRx7Eg==",
       "path": "system.security.cryptography.pkcs/8.0.0",
       "hashPath": "system.security.cryptography.pkcs.8.0.0.nupkg.sha512"
-    },
-    "WindowsAPICodePack-Core/1.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-GoURoQuE7ea7B7q24YRTBfZbsNO7ZtwSyBHbM8zO0ynwfjAGC0bbAmVrDvZ6HbWtqqOt6QTzdmYnj2WJglb5JQ==",
-      "path": "windowsapicodepack-core/1.1.1",
-      "hashPath": "windowsapicodepack-core.1.1.1.nupkg.sha512"
-    },
-    "WindowsAPICodePack-Shell/1.1.1": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-CPFamhL3jPo8O6+ErGsLS4LK3DWP5ncxqhbzpPnYkIW9rjatunUij35iTjprbr9mlYR/5Pbguw21MwSmTOKR4g==",
-      "path": "windowsapicodepack-shell/1.1.1",
-      "hashPath": "windowsapicodepack-shell.1.1.1.nupkg.sha512"
     }
   }
 }

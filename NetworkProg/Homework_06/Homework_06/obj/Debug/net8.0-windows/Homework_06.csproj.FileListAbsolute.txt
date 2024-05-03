@@ -20,11 +20,13 @@ D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\Hom
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\Homework_06.genruntimeconfig.cache
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\ref\Homework_06.dll
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\Homework_06.csproj.AssemblyReference.cache
-D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
-D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\Homework.5D58E90A.Up2Date
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\bin\Debug\net8.0-windows\MailKit.dll
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\bin\Debug\net8.0-windows\MimeKit.dll
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
 D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\LoginWindow.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\Homework_06.csproj.Fody.CopyLocal.cache
+D:\ШАГ\PD322\NetworkProg\Homework_06\Homework_06\obj\Debug\net8.0-windows\Homework_06.csproj.Fody.RuntimeCopyLocal.cache
