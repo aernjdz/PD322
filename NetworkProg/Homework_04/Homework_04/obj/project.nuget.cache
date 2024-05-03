@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ttrXaYJvdBU68fRq1/wXh2o+/z2WlUMpRIws5HxdoeJlDIVwfL7Im79KygwZmD9i/fZI2laazN6DrlU+h36Z1A==",
+  "success": true,
+  "projectFilePath": "D:\\ШАГ\\PD322\\NetworkProg\\Homework_04\\Homework_04\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\38068\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\bin\Debug\net8.0\Client_Console.exe
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\bin\Debug\net8.0\Client_Console.deps.json
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\bin\Debug\net8.0\Client_Console.runtimeconfig.json
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\bin\Debug\net8.0\Client_Console.dll
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\bin\Debug\net8.0\Client_Console.pdb
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.AssemblyInfo.cs
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.sourcelink.json
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.dll
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\refint\Client_Console.dll
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.pdb
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\Client_Console.genruntimeconfig.cache
+D:\ШАГ\PD322\NetworkProg\Homework_04\Client_Console\obj\Debug\net8.0\ref\Client_Console.dll

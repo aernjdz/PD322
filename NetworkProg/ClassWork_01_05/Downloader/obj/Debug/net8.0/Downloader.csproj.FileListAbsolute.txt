@@ -1,0 +1,15 @@
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\bin\Debug\net8.0\Downloader.exe
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\bin\Debug\net8.0\Downloader.deps.json
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\bin\Debug\net8.0\Downloader.runtimeconfig.json
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\bin\Debug\net8.0\Downloader.dll
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\bin\Debug\net8.0\Downloader.pdb
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.AssemblyInfo.cs
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.sourcelink.json
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.dll
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\refint\Downloader.dll
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.pdb
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\Downloader.genruntimeconfig.cache
+D:\ШАГ\PD322\NetworkProg\ClassWork_01_05\Downloader\obj\Debug\net8.0\ref\Downloader.dll

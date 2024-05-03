@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{720B20EA-4FF8-4F2B-A681-4CED8ACC4AE4}|Client_UI\\Client_UI.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_04\\client_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{720B20EA-4FF8-4F2B-A681-4CED8ACC4AE4}|Client_UI\\Client_UI.csproj|solutionrelative:client_ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{720B20EA-4FF8-4F2B-A681-4CED8ACC4AE4}|Client_UI\\Client_UI.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_04\\client_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{720B20EA-4FF8-4F2B-A681-4CED8ACC4AE4}|Client_UI\\Client_UI.csproj|solutionrelative:client_ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6FEEFAA-13FF-46D6-90E9-68469DB8746F}|Client_Console\\Client_Console.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\client_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6FEEFAA-13FF-46D6-90E9-68469DB8746F}|Client_Console\\Client_Console.csproj|solutionrelative:client_console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928A00B-511F-4630-B725-111CF558B818}|Homework_04\\Server.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_04\\homework_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1928A00B-511F-4630-B725-111CF558B818}|Homework_04\\Server.csproj|solutionrelative:homework_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928A00B-511F-4630-B725-111CF558B818}|Homework_04\\Server.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\homework_04\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1928A00B-511F-4630-B725-111CF558B818}|Homework_04\\Server.csproj|solutionrelative:homework_04\\server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1928A00B-511F-4630-B725-111CF558B818}|Homework_04\\Server.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\homework_04\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1928A00B-511F-4630-B725-111CF558B818}|Homework_04\\Server.csproj|solutionrelative:homework_04\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Client_UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Client_UI\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Client_UI\\MainWindow.xaml",
+              "RelativeToolTip": "Client_UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T11:13:54.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Client_UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Client_UI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Client_UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Client_UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAgwB8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T11:13:53.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Client_Console\\Program.cs",
+              "RelativeDocumentMoniker": "Client_Console\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Client_Console\\Program.cs",
+              "RelativeToolTip": "Client_Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T15:09:06.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "data.json",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Homework_04\\data.json",
+              "RelativeDocumentMoniker": "Homework_04\\data.json",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Homework_04\\data.json",
+              "RelativeToolTip": "Homework_04\\data.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-01T14:39:33.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.csproj",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Homework_04\\Server.csproj",
+              "RelativeDocumentMoniker": "Homework_04\\Server.csproj",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Homework_04\\Server.csproj",
+              "RelativeToolTip": "Homework_04\\Server.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-01T14:38:50.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Homework_04\\Program.cs",
+              "RelativeDocumentMoniker": "Homework_04\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_04\\Homework_04\\Program.cs",
+              "RelativeToolTip": "Homework_04\\Program.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAQwAoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:37:40.656Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

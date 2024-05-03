@@ -1,0 +1,16 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "Homework_04\\Server.csproj",
+        "Action": "StartWithoutDebugging",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "Client_UI\\Client_UI.csproj",
+        "Action": "StartWithoutDebugging"
+      }
+    ]
+  }
+]
