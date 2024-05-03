@@ -1,0 +1,12 @@
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\bin\Debug\net8.0\MessageLiblary.deps.json
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\bin\Debug\net8.0\MessageLiblary.dll
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\bin\Debug\net8.0\MessageLiblary.pdb
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\MessageLiblary.GeneratedMSBuildEditorConfig.editorconfig
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\MessageLiblary.AssemblyInfoInputs.cache
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\MessageLiblary.AssemblyInfo.cs
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\MessageLiblary.csproj.CoreCompileInputs.cache
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\MessageLiblary.sourcelink.json
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\MessageLiblary.dll
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\refint\MessageLiblary.dll
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\MessageLiblary.pdb
+D:\ШАГ\PD322\NetworkProg\Homework_02_and_03\MessageLiblary\obj\Debug\net8.0\ref\MessageLiblary.dll

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Homework_02_and_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_02_and_03\\homework_02_and_03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Homework_02_and_03.csproj|solutionrelative:homework_02_and_03\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Client_UI.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_02_and_03\\homework_02_and_03\\client_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Client_UI.csproj|solutionrelative:homework_02_and_03\\client_ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92E37BD9-4287-4A2F-8865-8966C7473A69}|Server\\Server.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_02_and_03\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92E37BD9-4287-4A2F-8865-8966C7473A69}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Homework_02_and_03.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_02_and_03\\homework_02_and_03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Homework_02_and_03.csproj|solutionrelative:homework_02_and_03\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6748A18-A23D-4203-B0CD-923E8B8B57CD}|MessageLiblary\\MessageLiblary.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_02_and_03\\messageliblary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6748A18-A23D-4203-B0CD-923E8B8B57CD}|MessageLiblary\\MessageLiblary.csproj|solutionrelative:messageliblary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Client_UI.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\homework_02_and_03\\homework_02_and_03\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FEA8B0F-03A3-40EA-81B4-B0022981FDB8}|Homework_02_and_03\\Client_UI.csproj|solutionrelative:homework_02_and_03\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAmwEMAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:37:09.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "Homework_02_and_03\\RelayCommand.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\RelayCommand.cs",
+              "RelativeToolTip": "Homework_02_and_03\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:35:07.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\MessageLiblary\\Class1.cs",
+              "RelativeDocumentMoniker": "MessageLiblary\\Class1.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\MessageLiblary\\Class1.cs",
+              "RelativeToolTip": "MessageLiblary\\Class1.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwCEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:31:42.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client_UI.csproj",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\Client_UI.csproj",
+              "RelativeDocumentMoniker": "Homework_02_and_03\\Client_UI.csproj",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\Client_UI.csproj",
+              "RelativeToolTip": "Homework_02_and_03\\Client_UI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-03T17:30:21.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Homework_02_and_03\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\MainWindow.xaml",
+              "RelativeToolTip": "Homework_02_and_03\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-03T17:24:52.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Homework_02_and_03\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\Homework_02_and_03\\Homework_02_and_03\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Homework_02_and_03\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwCcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T17:24:52.317Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
