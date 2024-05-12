@@ -1,0 +1,74 @@
+﻿<Window x:Class="TicTacToeClient.ConnectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TicTacToeClient"
+        mc:Ignorable="d"
+        Title="Connection"  
+        Height="180" 
+        Width="380"
+        MinHeight="180"
+        MinWidth="350">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Button.Margin" Value="10"/>
+            <Setter Property="Button.Padding" Value="5"/>
+        </Style>
+        <Style TargetType="TextBlock">
+            <Setter Property="TextBlock.Margin" Value="8 0"/>
+            <Setter Property="TextBlock.VerticalAlignment" 
+                    Value="Center"/>
+        </Style>
+        <Style TargetType="TextBox">
+            <Setter Property="TextBox.Margin" Value="8 0"/>
+            <Setter Property="TextBox.VerticalAlignment" 
+                    Value="Center"/>
+        </Style>
+    </Window.Resources>
+
+    <DockPanel>
+        <UniformGrid DockPanel.Dock="Bottom"
+                     Columns="2">
+            <Button x:Name="okButton"
+                    Click="okButton_Click"
+                    Content="ОК"/>
+            <Button x:Name="cancelButton"
+                    Click="cancelButton_Click"  
+                    Content="Cancel"/>
+        </UniformGrid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="auto"/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Grid.Row="0"
+                       Grid.Column="0"
+                       Text="User Name:"/>
+            <TextBox Grid.Row="0"
+                     Grid.Column="1"
+                     x:Name="playerNameTextBox"/>
+            
+            <TextBlock Grid.Row="1"
+                       Grid.Column="0"
+                       Text="IP server:"/>
+            <TextBox Grid.Row="1"
+                     Grid.Column="1"
+                     x:Name="ipAddressTextBox"/>
+
+            <TextBlock Grid.Row="2"
+                       Grid.Column="0"
+                       Text="Port:"/>
+            <TextBox Grid.Row="2"
+                     Grid.Column="1"
+                     x:Name="portTextBox"/>
+        </Grid>
+    </DockPanel>
+</Window>
+
+

@@ -1,0 +1,303 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeserver\\sendmessageclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|solutionrelative:tictactoeserver\\sendmessageclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoeserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|solutionrelative:tictactoeserver\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoeserver\\configwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|solutionrelative:tictactoeserver\\configwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeclient\\converter\\signtocharconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\converter\\signtocharconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeclient\\converter\\enumtostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\converter\\enumtostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeclient\\mainwindowsviemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\mainwindowsviemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoeclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoeclient\\connectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\connectionwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830FF83-614E-4C3B-9639-1E7335FFC271}|TicTacToeLibrary\\TicTacToeLibrary.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoelibrary\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830FF83-614E-4C3B-9639-1E7335FFC271}|TicTacToeLibrary\\TicTacToeLibrary.csproj|solutionrelative:tictactoelibrary\\field.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830FF83-614E-4C3B-9639-1E7335FFC271}|TicTacToeLibrary\\TicTacToeLibrary.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoelibrary\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830FF83-614E-4C3B-9639-1E7335FFC271}|TicTacToeLibrary\\TicTacToeLibrary.csproj|solutionrelative:tictactoelibrary\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C830FF83-614E-4C3B-9639-1E7335FFC271}|TicTacToeLibrary\\TicTacToeLibrary.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoelibrary\\tcpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C830FF83-614E-4C3B-9639-1E7335FFC271}|TicTacToeLibrary\\TicTacToeLibrary.csproj|solutionrelative:tictactoelibrary\\tcpclientextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|d:\\\u0448\u0430\u0433\\pd322\\networkprog\\tic_tac_toe\\tictactoeclient\\connectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\connectionwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|solutionrelative:tictactoeserver\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeserver\\configwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{87734AEC-A639-4469-A612-9FB46F97F41D}|TicTacToeServer\\TicTacToeServer.csproj|solutionrelative:tictactoeserver\\configwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeclient\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\delegatecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\tictactoeclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4ADAF59D-A617-4066-AF85-A4358ABD8903}|TicTacToeClient\\TicTacToeClient.csproj|solutionrelative:tictactoeclient\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConnectionWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\ConnectionWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToeClient\\ConnectionWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\ConnectionWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToeClient\\ConnectionWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:49:54.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToeClient\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToeClient\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:49:49.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToeServer\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToeServer\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:47:09.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConfigWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\ConfigWindow.xaml.cs",
+              "RelativeDocumentMoniker": "TicTacToeServer\\ConfigWindow.xaml.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\ConfigWindow.xaml.cs",
+              "RelativeToolTip": "TicTacToeServer\\ConfigWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:46:23.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Field.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeLibrary\\Field.cs",
+              "RelativeDocumentMoniker": "TicTacToeLibrary\\Field.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeLibrary\\Field.cs",
+              "RelativeToolTip": "TicTacToeLibrary\\Field.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:45:58.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TcpClientExtensions.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeLibrary\\TcpClientExtensions.cs",
+              "RelativeDocumentMoniker": "TicTacToeLibrary\\TcpClientExtensions.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeLibrary\\TcpClientExtensions.cs",
+              "RelativeToolTip": "TicTacToeLibrary\\TcpClientExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:45:59.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeLibrary\\Message.cs",
+              "RelativeDocumentMoniker": "TicTacToeLibrary\\Message.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeLibrary\\Message.cs",
+              "RelativeToolTip": "TicTacToeLibrary\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:45:57.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ConnectionWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\ConnectionWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToeClient\\ConnectionWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\ConnectionWindow.xaml",
+              "RelativeToolTip": "TicTacToeClient\\ConnectionWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T16:42:09.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\App.xaml",
+              "RelativeDocumentMoniker": "TicTacToeClient\\App.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\App.xaml",
+              "RelativeToolTip": "TicTacToeClient\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T16:41:15.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendMessageClient.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\SendMessageClient.cs",
+              "RelativeDocumentMoniker": "TicTacToeServer\\SendMessageClient.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\SendMessageClient.cs",
+              "RelativeToolTip": "TicTacToeServer\\SendMessageClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:23:42.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindowsViemModel.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\MainWindowsViemModel.cs",
+              "RelativeDocumentMoniker": "TicTacToeClient\\MainWindowsViemModel.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\MainWindowsViemModel.cs",
+              "RelativeToolTip": "TicTacToeClient\\MainWindowsViemModel.cs",
+              "ViewState": "AQIAALQAAAAAAAAAAAA8wEoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:22:00.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DelegateCommand.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\DelegateCommand.cs",
+              "RelativeDocumentMoniker": "TicTacToeClient\\DelegateCommand.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\DelegateCommand.cs",
+              "RelativeToolTip": "TicTacToeClient\\DelegateCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:21:58.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignToCharConverter.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\Converter\\SignToCharConverter.cs",
+              "RelativeDocumentMoniker": "TicTacToeClient\\Converter\\SignToCharConverter.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\Converter\\SignToCharConverter.cs",
+              "RelativeToolTip": "TicTacToeClient\\Converter\\SignToCharConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:21:55.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnumToStringConverter.cs",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\Converter\\EnumToStringConverter.cs",
+              "RelativeDocumentMoniker": "TicTacToeClient\\Converter\\EnumToStringConverter.cs",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\Converter\\EnumToStringConverter.cs",
+              "RelativeToolTip": "TicTacToeClient\\Converter\\EnumToStringConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T16:21:52.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConfigWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\ConfigWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToeServer\\ConfigWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\ConfigWindow.xaml",
+              "RelativeToolTip": "TicTacToeServer\\ConfigWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T16:21:44.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToeServer\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeServer\\MainWindow.xaml",
+              "RelativeToolTip": "TicTacToeServer\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T16:21:39.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "TicTacToeClient\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0428\u0410\u0413\\PD322\\NetworkProg\\TiC_TAC_TOE\\TicTacToeClient\\MainWindow.xaml",
+              "RelativeToolTip": "TicTacToeClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-12T16:15:35.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
