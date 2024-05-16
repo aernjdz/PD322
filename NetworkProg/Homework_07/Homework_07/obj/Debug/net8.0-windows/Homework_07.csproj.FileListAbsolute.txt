@@ -1,6 +1,4 @@
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07.csproj.AssemblyReference.cache
-D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\LoginWindow.g.cs
-D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\App.g.cs
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07_MarkupCompile.cache
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07_MarkupCompile.lref
@@ -14,8 +12,6 @@ D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\bin\Debug\net8.0-windows\Mai
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\bin\Debug\net8.0-windows\MimeKit.dll
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
-D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\LoginWindow.baml
-D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\MainWindow.baml
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07.g.resources
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07.GeneratedMSBuildEditorConfig.editorconfig
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07.AssemblyInfoInputs.cache
@@ -30,5 +26,17 @@ D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\ref
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07.pdb
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Homework_07.genruntimeconfig.cache
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\ref\Homework_07.dll
-D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Models\MailWindow.g.cs
-D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Models\MailWindow.baml
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Create.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Info.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Login.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Mail.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Reply.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Create.baml
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Info.baml
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Login.baml
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Mail.baml
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Reply.baml
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\MainWindow.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\MainWindow.baml
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Rename.g.cs
+D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\obj\Debug\net8.0-windows\Windows\Rename.baml

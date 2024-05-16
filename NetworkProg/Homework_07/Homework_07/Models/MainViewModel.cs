@@ -8,14 +8,16 @@ using MimeKit;
 using System.IO;
 using System.Windows;
 using Homework_07.paterns;
+using MailKit.Net.Imap;
 
 
-namespace Homework_07.Models
+namespace Homework_07
 {
     [AddINotifyPropertyChangedInterface]
     internal class MainViewModel
     {
         public SmtpClient SmtpClient { get; set; } = new SmtpClient();
+        public ImapClient ImapClient { get; set; } = new ImapClient();
 
         public string FromAddress { get; set; } = string.Empty;
 
@@ -40,12 +42,14 @@ namespace Homework_07.Models
 
         private RelayCommand? loginCommand;
 
+
         public ICommand LoginCommand => loginCommand ??=
             new RelayCommand(o => Login(), o => !IsLoggedIn);
 
         private RelayCommand? getCommand;
+
         public ICommand GETCommand => getCommand ??=
-            new RelayCommand(o => MailLoad(), o => !IsLoggedIn);
+            new RelayCommand(o => ImapMail(), o => IsLoggedIn);
         private RelayCommand? attachFileCommand;
 
         public ICommand AttachFileCommand => attachFileCommand ??=
@@ -71,6 +75,7 @@ namespace Homework_07.Models
                 loginViewModel.SmtpClient.IsAuthenticated)
             {
                 SmtpClient = loginViewModel.SmtpClient;
+                ImapClient = loginViewModel.ImapClient;
                 FromAddress = loginViewModel.Address;
                 LoginStatus = $"You are logged in as {loginViewModel.Address}";
                 IsLoggedIn = true;
@@ -78,6 +83,7 @@ namespace Homework_07.Models
             else
             {
                 SmtpClient = new SmtpClient();
+                ImapClient = new ImapClient();
                 FromAddress = string.Empty;
                 LoginStatus = string.Empty;
                 IsLoggedIn = false;
@@ -97,17 +103,18 @@ namespace Homework_07.Models
 
         }
 
+        public void ImapMail()
+        {
+            MailWindow mailWindow = new MailWindow(SmtpClient, ImapClient, FromAddress);
+            mailWindow.Show();
+        }
         public bool CanSend()
         {
             return !string.IsNullOrWhiteSpace(FromAddress) &&
                    !string.IsNullOrWhiteSpace(ToAddress) &&
                    !string.IsNullOrWhiteSpace(Body);
         }
-        public void MailLoad()
-        {
-            MailWindow mailWindow = new MailWindow();
-            mailWindow.ShowDialog();
-        }
+
         public async void SendAsync()
         {
             MimeMessage message = new MimeMessage();
@@ -143,7 +150,7 @@ namespace Homework_07.Models
                 return;
             }
 
-           
+
 
             MessageBox.Show("Message sent successfully!");
             ToAddress = string.Empty;

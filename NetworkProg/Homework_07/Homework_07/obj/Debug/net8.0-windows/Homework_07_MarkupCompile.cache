@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 D:\ШАГ\PD322\NetworkProg\Homework_07\Homework_07\App.xaml
-3-1184129445
+7-1387983535
 
-1069389661
+16812992101
 2021671724340
-LoginWindow.xaml;MainWindow.xaml;Models\MailWindow.xaml;
+MainWindow.xaml;Windows\Create.xaml;Windows\Info.xaml;Windows\Login.xaml;Windows\Mail.xaml;Windows\Rename.xaml;Windows\Reply.xaml;
 
 False
 

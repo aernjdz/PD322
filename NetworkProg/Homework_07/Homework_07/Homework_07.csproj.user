@@ -7,21 +7,42 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="LoginWindow.xaml.cs">
+    <Compile Update="Windows\Create.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Update="Models\MailWindow.xaml.cs">
+    <Compile Update="Windows\Info.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Rename.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Windows\Reply.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="Windows\Create.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Info.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Mail.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="LoginWindow.xaml">
+    <Page Update="Windows\Login.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="Models\MailWindow.xaml">
+    <Page Update="Windows\Rename.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Windows\Reply.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
